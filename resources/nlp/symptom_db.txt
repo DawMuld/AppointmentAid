@@ -1,0 +1,4368 @@
+﻿0;Abrupte gedragsveranderingen
+1;Aan 1 of aan beide ogen
+2;Aan 1 oog
+3;Aandoening aan 1 oog
+4;Aandoening meestal aan 1 oog
+5;Aan een stuk door praten
+6;Aangeboren
+7;Aangeboren afwijking aan lip, mond gehemelte
+8;Aangeboren cysten
+9;Aangetaste lichaamsdeel droogt op
+10;Aangetaste oog draait naar binnen of naar buiten
+11;Aangetaste spier is strakke harde band
+12;Aangetaste testikel zwelt op
+13;Aan getroffen zijde speeksel uit mondhoek lopen
+14;Aangezichtspijn
+15;Aangezichtspijnen
+16;Aangezichtspijn mogelijk
+17;Aanhoudende misselijkheid
+18;Aanhoudende neusafscheiding groen of geel
+19;Aanhoudende pijn
+20;Aanhoudende pijn in lichaamsdeel
+21;Aanhoudende pijn in mond of hals
+22;Aanhoudende pijn rond stuitje of staartbeen
+23;Aanhoudende uitscheiding van ontlasting
+24;Aanhoudend gevoel van irritatie
+25;Aanhoudend gezwollen klieren hals, liezen, oksels
+26;Aanraken van buik doet pijn
+27;Aantasting gezichtsvermogen
+28;Aantasting smaak-reukvermogen
+29;Aanval begint met koortsrillingen
+30;Aanvallen om de 2 of 3 dagen
+31;Aanvallen van benauwdheid
+32;Aanvallen van duizeligheid
+33;Aanvallen van hevige pijnscheuten
+34;Aanvankelijk aan één kant
+35;Aanvankelijk braken
+36;Aanvankelijk felrode vlekjes achter oren
+37;Aanvankelijk lichte diarree
+38;Aardbei neus
+39;Abces of etterbuil barst meestal vanzelf open
+40;Abces rond nagel
+41;Abnormaal bloedverlies
+42;Abnormaal gevormde penis
+43;Abnormaal littekenvorming huid
+44;Abnormaal uitziende vaginale afscheiding
+45;Abnormale ledemaatbewegingen
+46;Abnormale lichaamslengte
+47;Abrupte ademnood
+48;Achterblijvende groei bij kinderen
+49;Achtergebleven groei
+50;Achter in keel grijswit vlies beslag
+51;Achterkant keel is rood
+52;Achteruitgang verstandelijke vermogens
+53;Achterwaarts verstrekte verkromming
+54;Acne
+55;Acute benauwdheid
+56;Acuut: pijn achter de neus
+57;Acuut: slijmvliesontsteking catarre
+58;Acuut:vergrote lymfeklieren in hals
+59;Acuut: verstopte neus door vergrote amandelen
+60;Acuut begin met koorts en huidafwijkingen
+61;Acuut piepen
+62;Acuut reuma jaren geleden
+63;Ademen door mond
+64;Ademhaling geeft reutelend geluid
+65;Ademhalingsmoeilijkheden
+66;Ademhalingsproblemen
+67;Ademhaling stokt
+68;Ademhaling stopt herhaaldelijk korte tijd
+69;Ademhaling te snel
+70;Ademhaling vaak normaal
+71;Ademhaling wordt aangetast
+72;Ademnood
+73;Ademnood, die snel steeds erger wordt
+74;Ademnood als men op de rug ligt
+75;Ademnood bemoeilijkt voeden
+76;Adem ruikt vies
+77;Aderen nog duidelijker bij inademen
+78;Aderen ook op hals en borst
+79;Aderen veranderen niet bij wijziging houding
+80;Aderen zwellen op als patiënt plat ligt
+81;Af en toe knie op slot
+82;Af en toe moeite met slikken
+83;Af en toe oprispen voedsel
+84;Af en toe pijn
+85;Af en toe vers bloed
+86;Af en toe zwelling
+87;Afgeplat gezicht
+88;Afgewisseld met normale perioden
+89;Afhangend ooglid
+90;Afhankelijk van de oorzaak vaak aan 1 kant
+91;Afhankelijk van de plaats vermindering gezichtsvermogen
+92;Afscheiding
+93;Afscheiding eerder wit dan geel
+94;Afscheiding komt voor bij niet-specifieke blaasontsteking of geslachtsziekte
+95;Afscheiding rond voorhuid
+96;Afscheiding uit de neus
+97;Afscheiding uit penis
+98;Afscheiding uit tepel
+99;Afwijkend gedrag
+100;Afwijkingen aan gezichtsvermogen
+101;Afwijkingen aan tanden en kiezen
+102;Afwijkingen rond lippen
+103;Agressief
+104;Agressief gedrag
+105;Alcoholisme
+106;Algehele immobiliteit
+107;Algehele malaise
+108;Algehele of gedeeltelijke doofheid
+109;Algehele zwelling - geen afzonderlijke knobbels
+110;Algemeen gevoel van ziekzijn
+111;Algemee onwelbevinden raadpleeg dokter
+112;Algemene botpijn
+113;Algemene stoornis in bloedstolling
+114;Alleen indien ernstig: bloedingen intern en extern
+115;Alleen indien ernstig:botbreuken
+116;Alleen indien ernstig: hoofdletsel en bewusteloosheid
+117;Alleen in op jongere leeftijd
+118;Allergische reacties
+119;Alle verschijnselen van virusziekte
+120;Als bijwerking van amiodarone hartritmemiddel
+121;Als blaren samenvoegen grote delen huid los
+122;Als drukverhoging aanhoudt bewustzijn vermindering
+123;Als het meer voorkomt rafelige irisrand
+124;Als kind normale ontwikkeling
+125;Als stroomstoot
+126;Als urine tijdje staat wordt die donkerder
+127;Altijd alert blijven, snel schrikken
+128;Altijd zelfde ooglid
+129;Alvleesklierontsteking
+130;Amandelontsteking
+131;Amfetaminen en suxamethonium voor narcose
+132;Anafylactische reactie
+133;Anale bloedingen
+134;Andere aangeboren afwijkingen
+135;Andere hormonale veranderingen
+136;Andere houding door de pijn extra holle/bolle rug
+137;Andere mensen napraten
+138;Andere namen zijn vingerhoeds- of horlogeglasnagel
+139;Andere plaatsen blauwe plekken, bloedingen
+140;Andere tekenen van kanker
+141;Andere verschijnselen van een hersentumor
+142;Andere ziekten bij de baby
+143;Angina pectoris
+144;Angst
+145;Angst, transpireren
+146;Angst, zweten
+147;Angstgevoelens
+148;Angst om aan te komen
+149;Angst om controle te verliezen
+150;Angst om dood te gaan
+151;Angst om gek te worden
+152;Angst om naar bed te gaan
+153;Angst voor nieuwe paniekaanvallen
+154;Angst voor plaatsen
+155;Angst voor situaties
+156;Anus jeukt
+157;Apathie
+158;Arm kan niet opzij bewogen worden
+159;Arm kan niet volledig gebogen worden
+160;Arm kan niet volledig gestrekt worden
+161;Arm taalgebruik
+162;Asymmetrisch patroon, niet egaal
+163;Aura zien van lichtflits
+164;Aversie tegen erotische aanrakingen partner
+165;Aversie tegen seks
+166;1 been lijkt korter
+167;Baarmoeder kan teruggeduwd worden
+168;Baby's uitpuilen van fontanel
+169;Baby: bloed en slijm in de ontlasting
+170;Baby: braken
+171;Baby: gewicht te weinig aankomen
+172;Baby: huilen
+173;Baby: verwaarlozing
+174;Baby: vissehuid direct na geboorte
+175;Baby eet normaal, maar braakt krachtig
+176;Baby is hongerig
+177;Baby met schaafwondjes, blauwe plekken, onverzorgd
+178;Bandenpijn: gevoel van strakke band om buik
+179;Band rondom hele hoofd
+180;Basis grote teen zeer zichtbaar
+181;Been eerst bleek, later blauw
+182;Been is bleek
+183;Beenkramp: etalageziekte claudicatio intermittens
+184;Been voelt koud aan
+185;Beestjes kunnen zich in de schaamstreek vestigen
+186;Beestjes kunnen zich vestigen in wenkbrauwen
+187;Begin onaangenaam gevoel aan 1 kant van lichaam
+188;Begint als een oorontsteking
+189;Begint als zwart plekje
+190;Begint altijd in 1 gewricht
+191;Begint in pubertijd
+192;Begint met jeuk
+193;Begint met keelpijn
+194;Begint met klein parelvormig bultje
+195;Begint met lichte verdikking huid
+196;Begint met slinken spieren in handen
+197;Begint vaak al bij jonge volwassenen
+198;Behoefte aan troost of aandacht
+199;Beide kanten aangetast en gezwollen
+200;Beiden ogen zijn aangetast
+201;Beide ogen rood
+202;Beide oren worden aangetast
+203;Beide pupillen zijn klein
+204;Bekende verwonding op één plek
+205;Beklemd gevoel in de borst
+206;Bemoeilijkte urinelozing
+207;Benauwdheid
+208;Benauwdheid acuut
+209;Benauwdheid bij inademen kan zeer erg worden
+210;Benen worden krom o-benen
+211;Benen zien bleek bij omhooghouden
+212;Benige uitsteeksels te voelen
+213;Benige vergroeiingen mogelijk
+214;Bepaalde toonhoogten vallen weg
+215;Beperkte beweeglijkheid nek
+216;Beperkte beweeglijkheid schouder
+217;Beperkte bewegingen van de ogen
+218;Beperkte bewegingsmogelijkheid
+219;Beperkt gezichtsveld
+220;Beperkt gezichtsveld koker of tunnelzien
+221;Beroerd gevoel
+222;Beslagen tong
+223;Bevat veel bindweefsel
+224;Beven
+225;Beven tremor
+226;Beven, trillende handen
+227;Beven/trillen en zweterig
+228;Bevende handen
+229;Beven en koud aanvoelen
+230;Beven en trillen
+231;Beven of trillen
+232;Beweeglijkheid kaak kan beperkt raken
+233;Beweeglijkheid nek is aanzienlijk beperkt
+234;Bewegen heup pijnlijk
+235;Bewegingsmogelijkheden worden beperkt
+236;Bewegingsziekte
+237;Bewusteloosheid
+238;Bewusteloosheid, shock, coma
+239;Bewustzijnsverlies
+240;Bewustzijnsverlies collaps
+241;Bewustzijnsverlies gedurende enkele minuten
+242;Bewustzijnsverlies met shock of coma
+243;Bewustzijnverlies
+244;Bij 'stil' infarct: gezwollen enkels
+245;Bij 'stil' infarct:onregelmatige pols
+246;Bij 'stil' infarct: plotselinge vermoeidheid
+247;Bij 'stil' infarct niet altijd pijn
+248;Bij acute aanval wordt bloed, slijm en pus uitgescheiden
+249;Bij baby
+250;Bij baby's slechts: koorts, geïrriteerdheid
+251;Bij baby: ingezonken of uitpuilende fontanel
+252;Bij baby een angstige blik in de ogen
+253;Bij baby jankend huilen
+254;Bij baby ogen tranen ook als baby niet huilt
+255;Bij bedlegerigheid slinken spieren
+256;Bij botten spontaan breuken
+257;Bij buik pijn
+258;Bij dijbeen breuk kan veel bloedverlies ontstaan
+259;Bij drinken wortel- of tomatensap
+260;Bij een kramp kan gezichtsvermogen terugkomen
+261;Bij elke voeding hoest
+262;Bij elke voeding verstikkingsverschijnselen
+263;Bij emotie wordt hij opgetrokken
+264;Bij enkel: op voet staan pijnlijk
+265;Bij ernstig benauwdzijn: blauwe lippen
+266;Bij ernstig benauwdzijn: bleek gelaat
+267;Bij ernstig ondervoede kinderen
+268;Bij eten veel worteltjes
+269;Bij geboorte te herkennen
+270;Bij gebruik bloedverdunners antistolling
+271;Bij gebruik bruiningspreparaten
+272;Bij genezing verkleurt de huid
+273;Bij genezing vervellen van de huid
+274;Bij goed voelen zit teelbal toch op zijn plaats
+275;Bij hoge koorts vooral bij kinderen
+276;Bij infectie: dikkere afscheiding
+277;Bij jonge mensen: brede uitgezette borstkas
+278;Bij jongere mogelijk depressie
+279;Bij kijken in een lampje valt lichtpuntje naast pupil
+280;Bij kinderen: daling urineproductie
+281;Bij kinderen: plotseling begin na keelontsteking
+282;Bij kinderen: problemen met leren praten
+283;Bij kinderen: slechte groei
+284;Bij kinderen: vaak combinatie met hernia
+285;Bij kinderen: vermoeidheid
+286;Bij kinderen geremde groei
+287;Bij kinderen gezwollen polsen
+288;Bij kinderen opvallend heldere pupil
+289;Bij kind langdurige doofheid
+290;Bij kleine kinderen
+291;Bij kou is teelbal opgetrokken
+292;Bij lang gips of corset dragen
+293;Bij lang niet bewegen
+294;Bij lichtinval wordt pupil slechts langzaam nauwer
+295;Bij long kortademigheid
+296;Bij man: ongemak bij urineren
+297;Bij man: ongemak of jeuk bij urineren
+298;Bij man: rode verkleuring en pijn rond eikel
+299;Bij man: soms geen symptomen
+300;Bij man: troebele afscheiding uit urinebuis
+301;Bij man: troebele urine
+302;Bij man: witte of gele afscheiding uit penis
+303;Bij mannen: impotentie, acne
+304;Bij mannen: slinken testikels
+305;Bij mannen: vergroting borsten
+306;Bij mannen: voortijdige puberteit
+307;Bij niet opereren kans op kanker later groter
+308;Bij normaal verder gezond kind
+309;Bij onvruchtbare personen
+310;Bij openbarsten wordt pus zichtbaar
+311;Bij ouderen
+312;Bij ouderen na val in onverwarmde ruimte
+313;Bij ouderen verwardheid mogelijk
+314;Bij pasgeborenen
+315;Bij pasgeborenen blauwe lippen en koude handen en voeten
+316;Bij pezen en gewrichten
+317;Bij pijn meer gillen en wiegen helpt maar kort
+318;Bij plassen bolt voorhuid op
+319;Bij slaap heel diepe ademhaling
+320;Bij slapen normale erecties
+321;Bij steeds terugkeren: suikerziekte mogelijk
+322;Bijv.. bij antidepressiva en medicijnen tegen urineincontinentie
+323;Bijv. bij bierdrinkers
+324;Bijv. digoxine, bètablokkers
+325;Bijv. door vaataandoening
+326;Bijv. lithium, alcohol,
+327;Bijv. na bevalling
+328;Bijv. na stoppen met sporten
+329;Bijv. obsessief krabben
+330;Bijv. paraldehyde slaapmiddel
+331;Bijv. toebrengen brandwonden
+332;Bijv anti-epileptica tegen vallende ziekte
+333;Bijv antimalariamiddel
+334;Bijv bloeddrukverlager
+335;Bijv corticosteroïden, hormonale behandelingpil
+336;Bij vinger of teen drukpijn en kloppen
+337;Bij volwassenen: doofheid
+338;Bij volwassenen: oedeem van benen
+339;Bij volwassenen: pijn en duizeligheid
+340;Bij volwassenen vaak lichte gewrichtsontsteking
+341;Bij volwassenen veelvuldig tranen helder vocht
+342;Bijv plasmiddelen diuretica
+343;Bij vrouw: pijn of branderig gevoel bij urineren
+344;Bij vrouw: vaak geen symptomen
+345;Bij vrouwen: mannelijke haargroei hirsutisme
+346;Bij vrouwen: uitblijven menstruatie
+347;Bij vrouwen: vergrote clitoris
+348;Bij vrouwen sprake van de overgang menopauze
+349;Bij vrouwen tussen 20-40 jaar
+350;Bij wakker worden normale erecties
+351;Bij zeer grote vleesboom=myoom zwelling onderbuik
+352;Bij zeer hoge hartfrequentie: duizeligheid
+353;Bij zeer hoge hartfrequentie: licht in het hoofd
+354;Bij zwangeren: risico dat foetus beschadigd wordt
+355;Bindvliesontsteking conjunctivitis
+356;Bindvliesontsteking conjunctivitis na urethritis
+357;Binnen enkele sec weer normaal
+358;Binnenkant van je voet raakt de grond
+359;Binnen paar uur piepende ademhaling
+360;Bittere smaak in mond
+361;Bizar gedrag
+362;Bizarre obsessies
+363;Blaar
+364;Blaarvorming aan nagelranden
+365;Blaarvorming bij minste huidbeschadiging
+366;Blaasjes, korstjes
+367;Blaasjes/blaren
+368;Blaasjes barsten open
+369;Blaasjes gevuld met vocht
+370;Blaasjes of zweertjes in gezicht
+371;Blaasjes of zweertjes op huid
+372;Blaasjes op of rond geslachtsorganen
+373;Blaasjes op punt neus dan meestal ook ooginfectie
+374;Blaasjes verkorsten
+375;Blaasjes worden pijnlijke zweren
+376;Blaasproblemen
+377;Blafhoest
+378;Blaren
+379;Blaren barsten open
+380;Blaren gevuld met vocht
+381;Blaren gevuld met vocht en bloed
+382;Blaren in mond, huid slijmvlies
+383;Blaren ontstaan op rode gezwollen huid
+384;Blaren ontsteken
+385;Blaren op de huid
+386;Blaren op huid
+387;Blaren op romp en ledematen
+388;Blaren vormen zweren
+389;Blauw, paarsige plek
+390;Blauwe lippen
+391;Blauwe nagelbedden, tong en lippen
+392;Blauwe ogen
+393;Blauwe plek
+394;Blauwe plekken
+395;Blauwe plekken rond navel of aan flanken
+396;Blauwe plekken rond schede en anus
+397;Blauwe verkleuring huid
+398;Blauwe verkleuring huid en slijmvliezen
+399;Blauwige handen of vingers
+400;Blauwige huid
+401;Blauwige lippen
+402;Blauwige voeten of tenen
+403;Blauwig paarse lippen
+404;Blauw oog
+405;Blauwpaarse lippen
+406;Blauwverkleuring rond oog
+407;Blauwverkleuring wordt geel groen na enkele dagen
+408;Blauwwordende verdikkingen in huid erythema nodosum en gewrichtsklachten
+409;Blauw zien
+410;Blauwzucht
+411;Blauwzucht blauwe nagels, tong, lippen
+412;Blauwzucht cyanose
+413;Blauwzucht cyanose nagels, handen, lippen, tong
+414;Blauwzucht cyanose vooral gezicht
+415;Blauwzucht cyanose
+416;Blauwzucht van de lippen
+417;Bleek
+418;Bleek, bezweet gezicht
+419;Bleek, klam
+420;Bleek gelaat
+421;Bleekheid
+422;Bleekheid, zweten, klamme huid
+423;Bleekheid: vooral binnenkant oogleden, nagelbedden
+424;Bleekheid maar soms ook rood gezicht
+425;Bleekheid rondom de mond
+426;Bleek uiterlijk
+427;Bleke, witte plekken op huid
+428;Bleke huid
+429;Bleke of blauwachtige huid op hand
+430;Blijvend
+431;Blinde plek wordt niet groter of kleiner
+432;Blinde vlekken zien
+433;Blindheid
+434;Bloeddoorlopen ogen
+435;Bloedend oor
+436;Bloedend tandvlees
+437;Bloeden ernstig
+438;Bloeden moedervlek
+439;Bloed en slijm in ontlasting
+440;Bloederige afscheiding
+441;Bloederige afscheiding uit tepel
+442;Bloederige diarree
+443;Bloederige of zwarte ontlasting
+444;Bloederige ontlasting
+445;Bloederig slijm
+446;Bloederig slijm of bloed ophoesten
+447;Bloed goed zichtbaar
+448;Bloed in braaksel
+449;Bloed in braaksel/ontlasting
+450;Bloed in de urine
+451;Bloeding
+452;Bloedingen
+453;Bloedingen aan darm, in ontlasting
+454;Bloedingen na menopauze
+455;Bloedingen te zien in braaksel
+456;Bloedingen te zien in ontlasting zwart
+457;Bloedingen uit anus
+458;Bloedingen uit mond mogelijk
+459;Bloedingen uit neus mogelijk
+460;Bloeding is ernstig en langdurig
+461;Bloeding kan irritatie buikholte veroorzaken
+462;Bloedingsneiging zonder ongeval
+463;Bloeding tijdens of na seks
+464;Bloeding uit mond en of neus
+465;Bloeding van binnenuit
+466;Bloed in ontlasting
+467;Bloed in opgehoeste slijm sputum
+468;Bloed in slijm, braaksel, urine, ontlasting,vagina
+469;Bloed in sperma
+470;Bloed in urine
+471;Bloed in urine, soms erg veel
+472;Bloedneus
+473;Bloed of slijm in ontlasting
+474;Bloed ophoesten
+475;Bloedrode urine
+476;Bloedtoevoer schiet tekort
+477;Bloeduitstorting
+478;Bloedvatgezwelletjes of verwijdingen in huid
+479;Bloedvergiftiging sepsis
+480;Blond haar
+481;Bobbeltje met licht verkleurd centrum
+482;Bobbeltjes gaan vanzelf terug
+483;Bobbeltjes in de huid
+484;Bobbeltjes op of rond geslachtsdelen
+485;Bochel
+486;Boeren
+487;Boeren, oprispen maagzuur
+488;Boezemfibrilleren
+489;Boezemfribilleren
+490;Bonzend gevoel in het hoofd
+491;Borsten beide vergroot
+492;Borst is aangetast door geïrriteerde spier
+493;Borstkas abnormaal gevormd
+494;Borstkas voelt beklemd aan
+495;Borstontwikkeling
+496;Borstontwikkeling bij meisje
+497;Borstvoeding stuwing
+498;Borstvorming
+499;Botafwijkingen
+500;Botbreuken
+501;Botknobbel duidelijk voelbaar
+502;Botknobbel duidelijk zichtbaar
+503;Botontkalking osteoporose
+504;Botpijn
+505;Botsplinters te voelen
+506;Botten breken bij zeer kleine verwonding
+507;Botten worden compacter dan normaal
+508;Botten worden harder dan normaal
+509;Bot voetzool wordt pijnlijk
+510;Boven-onderkiezen bewegen langs elkaar
+511;Bovenbenen opgetrokken door pijn
+512;Boven deel dijbeen lijkt hoger te zitten
+513;Boveneind biceps bij buiging als bult zichtbaar op bovenarm
+514;Bovenkant ruw met zwarte puntjes
+515;Bovenmatige vaginale bloeding
+516;Bovenste luchtwegen gezwollen
+517;Braaksel: gedeeltelijk verteerd voedsel
+518;Braaksel bevat alleen maaginhoud
+519;Braaksel lijkt op diarree faecaal braken
+520;Braaksel met bloed of koffiedrab lijkend sporen
+521;Braken
+522;Braken/misselijkheid
+523;Braken baby
+524;Braken begint eerste levensweken
+525;Braken begint eerste levensweken baby
+526;Braken dram- en maaginhoud
+527;Braken van helderrood bloed
+528;Braken vooral 's middags en 's avonds
+529;Brandende pijn/ Schrijnende pijn
+530;Brandende pijn achter het borstbeen vlak na slikken
+531;Brandend gevoel op de huid
+532;Brandend maagzuur zuurbrand
+533;Branderige, jeukende, tranende ogen
+534;Branderige pijn
+535;Branderige pijn in de borsten
+536;Branderig gevoel
+537;Branderig gevoel bij het plassen
+538;Branderig gevoel bij urineren
+539;Branderig gevoel in armen en benen
+540;Branderig gevoel in benen
+541;Branderig gevoel in voeten
+542;Branderig gevoel tenen of voeten
+543;Brede borst met uiteenstaande tepels
+544;Brok in de keel
+545;Bronchitis
+546;Bronskleurige huid
+547;Broze botten
+548;Bruin/zwarte korstvorming
+549;Bruine/donkere verkleuring van de huid
+550;Bruine huid algemeen
+551;Bruine of zwarte korsten in huid gezicht
+552;Bruine verkleuring melkgebit
+553;Bruine vlekken op huid algemeen
+554;Bruine vleksgewijze verkleuring gezichtshuid
+555;Bruinige verkleuring aan onderbenen en voeten
+556;Buik is gezwollen
+557;Buikkrampen
+558;Buiklijn, diarree
+559;Buikloop
+560;Buik puilt uit
+561;Buikspieren voelen plankhard aan
+562;Buik zet op
+563;Buitengewone angst
+564;Bulten of vlekken zijn zichtbaar of voelbaar
+565;Bult is pijnlijk
+566;Bultje jeukend op huid
+567;Bultjes bij geslachtsorganen
+568;Bultjes en zweren op en bij geslachtsorganen
+569;Bultjes in verschillende stadia
+570;Bultjes op huid
+571;Bultjes rond vagina, penis, anus of bilspleet
+572;Bult lijkt vergroeid met weefsel
+573;Bult op rug
+574;Bult op rug, stijve gebogen houding, vorm kyfose
+575;Chronische bloedarmoede
+576;Chronische buikpijn
+577;Chronische rugpijn
+578;Carrouselduizeligheid
+579;Centraal zwart puntje
+580;Chaotisch denken en handelen
+581;Chronisch: aanhoudend hoesten
+582;Chronisch: ademen door de mond
+583;Chronisch: groeven en lijnen
+584;Chronisch: ontsteking slijmvlies catarre
+585;Chronisch: oorontsteking, gehoorverlies
+586;Chronisch: pijn bij geslachtsverkeer
+587;Chronisch: pijnlijke menstruatie
+588;Chronisch:vergrote neusamandelen
+589;Chronische hoest
+590;Chronische pijn
+591;Chronische vermoeidheid, bleekheid
+592;Chronisch ziektegevoel
+593;Cirkelvormige grijze verkleuring die pupil geheel bedekt
+594;Colitis ulcerosa
+595;Collaps bewustzijnsverlies
+596;Collaps flauwvallen
+597;Coma
+598;Coma, bewustzijnsverlies
+599;Combinatie met niezen en loopneus
+600;Compensatie na eten door bijvoorbeeld braken of intensief sporten
+601;Complicatie: doofheid en slechthorendheid
+602;Complicatie: slechthorendheid, doofheid
+603;Complicatie eerdere ontsteking
+604;Concentratieproblemen
+605;Concentratiestoornis
+606;Concentratieverlies
+607;Concentratieverlies, futloosheid
+608;Constante kortademigheid
+609;Constante pijn
+610;Constante slijmafscheiding in de neus
+611;Constant piepen
+612;Contactallergie haarspray, oogmake-up, nagellak
+613;Contact met buitenaardse wezens
+614;Contact met de realiteit is verloren gegaan
+615;Controleverlies blaas leidt tot vasthouden urine
+616;Cosmetisch niet fraai
+617;Coördinatiestoornissen
+618;Craquelee achtige huid
+619;Cv geeft droge lucht
+620;Cysten op hoofd en in nek
+621;Cysten vaak aan beide zijden scrotum
+622;draaiduizeligheid
+623;Daardoor spontaan bloeden
+624;Daarna blauw en ijskoud worden been of arm
+625;Daarna heftige waterdunne diarree
+626;Daarna hersenvliesontsteking meningitis
+627;Daarna kortademigheid
+628;Daarna opgezwollen benen
+629;Daarna weer terugvan
+630;Daarna witte huidverkleuring
+631;Daaromheen blauwe fijnvertakte bloedvaatjes
+632;Daar ook veel kleine blaasjes
+633;Daarvoor geen klachten
+634;Dag vooraf nog geen afwijking te zien
+635;Daling bloedplaatjes
+636;Dan is kind weer aanspreekbaar
+637;Dan lijkt het spontaan te onstaan
+638;Dan ook korstige randen oogleden
+639;Dan ritmische spiertrekkingen in ledematen
+640;Dan zwelling
+641;Darm draait om zichzelf heen
+642;Darmkanaalafsluiting
+643;Darmkrampen
+644;Darmkrampjes
+645;Darm raakt in de knoop
+646;Deel van oogwit is rood
+647;Deel vingers ontbreekt
+648;De huid heeft vuurrode, wat verheven scherpbegrensde kleine huidplekken met beetje gezwollen grillige rand en eilandjes voor de kust
+649;De kans wordt vergroot door zwaarlijvig
+650;Delen lichaam groeien te sterk uit
+651;Delier
+652;Dementie
+653;Denken is normaal
+654;Denkprocessen verslechteren geleidelijk
+655;Denkt niet diep genoeg te kunnen ademen
+656;De oogleden raken abnormaal snel vermoeid
+657;De patient ligt zeer stil, bewegen doet pijn, harde buik
+658;Depressie
+659;Depressieve gevoelens
+660;Depressiviteit
+661;Desoriëntatie
+662;De spieren zijn dunner
+663;De verhalen zijn ongeloofwaardig
+664;Diagnose soms jaren later
+665;Diagnose vaak pas gesteld na rectaal toucher en punctie in harde knobbel die gevoeld wordt
+666;Diarree
+667;Diarree vet, stinkend veel en soms dun
+668;Diarree vettig
+669;Diarree wordt erger
+670;Diepe bewusteloosheid
+671;Diepe zware ademhaling
+672;Diepliggende ogen
+673;Dikk buik en hele dunne beentjes
+674;Dikke, gele afscheiding uit oor
+675;Dikke, witte afscheiding
+676;Dikke enkels
+677;Dikke enkels oedeem
+678;Dikke gele afscheiding uit oor
+679;Dikke knie
+680;Dikker wordende buik
+681;Dik ogende gegroefde huid
+682;Dingen zien die er niet zijn
+683;Direct na de bevalling daalt de bloeddruk weer
+684;Doet zich voor als combinatie van
+685;Doffe aanhoudende hoofdpijn
+686;Dommeligheid, suf, in slaapvallen overdag
+687;Donkere urine
+688;Donkergele, oranje of bruine urine
+689;Donkergele urine
+690;Dood/koud gevoel in handen
+691;Doof gevoel in hand of voet
+692;Doof gevoel in onderste ledematen
+693;Doof gevoel in voeten en handen
+694;Doofheid
+695;Doofheid en gehoorproblemen
+696;Doofheid na voortdurende blootstelling veel geluid
+697;Doofheid vooral na 65e levensjaar
+698;Door bestraling
+699;Door chronische myeloïde leukemie
+700;Door de bof
+701;Door de slechte doorbloeding ontstaan puistjes
+702;Door duizeligheid soms onmogelijk op te staan
+703;Doorgaans enkele millimeters groot
+704;Door gebrek aan beweging: misvorming
+705;Door gebrek aan elasticiteit breken botten snel
+706;Door gedraaide teelballen
+707;Door koorts stijgt hartfrequentie
+708;Door krabben en jeuk ontstaat ontsteking
+709;Door krabben ontstane ontstekingen
+710;Door langdurig te hoge temperaturen scrotum strakker onderbroek
+711;Doorlopende plooi in handen
+712;Door malaria
+713;Door minder knipperen bij ingespannen werken
+714;Door mond ademhalen
+715;Door mond ademhalen openhangende mond
+716;Door myelofibrose
+717;Door neus praten
+718;Door ontsteking verdikt huid zich
+719;Door roken, alcoholmisbruik
+720;Door spataderen bruine pigmentatie
+721;Door verandering omgeving of lucht weer
+722;Door verstoorde nierfunctie
+723;Doorzichtig blauwig van kleur
+724;Door zwarte koorts
+725;Door zwelling kaak moeilijk te bewegen
+726;Door zwelling staat oorschelp verder naar buiten
+727;Dorst
+728;Dorst hevig en veel urineren
+729;Dorst en slapte
+730;Dove vingers en/of tenen
+731;Draaibewegingen vaak beperkt
+732;Draaiduizeligheid
+733;Draaiduizeligheid alleen bij opstaan niet plat op rugliggend
+734;Draaierig gevoel
+735;Draaierig gevoel, draaiduizeligheid
+736;Draait met goede oor naar geluid
+737;Driehoekige vorm
+738;Droge, schilferende huid bovenste ooglid
+739;Droge, verdikte huid, vissehuid
+740;Droge beslagen tong
+741;"Droge geelbruine huid met wit ""rijp""laagje"
+742;Droge hoest
+743;Droge hoest zonder slijm
+744;Droge huid
+745;Droge lippen en ingevallen ogen
+746;Droge mond
+747;Droge mond en droge slappe huid
+748;Droge ogen
+749;Droge ruwe tong
+750;Droge slijmvliezen mond en ogen
+751;Droge stoffige omstandigheden
+752;Droge vagina
+753;Droog, dun haar
+754;Droog gevoel in mond aan kant zwelling
+755;Druipogen
+756;Drukgevoeligheid achter oor
+757;Drukkende pijn
+758;Drukkende pijn op het oor
+759;Drukkend gevoel op de borst
+760;Drukkend gevoel op het oor
+761;Drukkend gevoel van de ogen
+762;Drukpijn achter het oor
+763;Drukpijn gevoeligheid roodheid achter het oor
+764;Drukpijn op en om het oog
+765;Drukpijn op en rond het oog
+766;Druk vermindert door slikken of geeuwen
+767;Druppelen van urine
+768;Dubbelzien
+769;Dubbelzien in alle kijkrichtingen
+770;Duidelijk begrensd
+771;Duidelijk begrensde witte vlekken
+772;Duidelijke bloeduitstorting
+773;Duidelijke bloedvaten op de buik
+774;Duidelijke misvorming
+775;Duidelijk gebrek aan slaap/rust
+776;Duidelijk samenhang met ademhaling
+777;Duidelijk vergrote milt
+778;Duidelijk zichtbare, symmetrische aderen op hoofd
+779;Duidelijk zichtbare aderen aan weerszijden hals
+780;Duidelijk zichtbare bloedvaten
+781;Duidelijk zichtbare halsaderen
+782;Duidelijk zichtbare halsaderen, symmetrisch
+783;Duidelijk zichtbare symmetrische aderen op hoofd
+784;Duim tegen onderarm leggen
+785;Duizelig
+786;Duizeligheid
+787;Duizeligheid, hoofdpijn
+788;Duizeligheid bij het opstaan
+789;Duizeligheid bij lopen
+790;Duizeligheid bij opstaan
+791;Duizeligheid bij plotselinge hoofdbeweginge
+792;Duizeligheid bij staan
+793;Duizeligheid en oorsuizen
+794;Duizeligheid zonder draaiduizeligheid
+795;Dunne onderarm
+796;Dunner, fijner haar
+797;Dunner worden haar
+798;Dunner worden haar op de kruin
+799;Dunne waterige diarree
+800;Duurt 5 tot 10 minuten
+801;Duurt enkele seconden
+802;Duurt jarenlang
+803;Duurt ongeveer zes weken
+804;Dwerggroei met korte ledematen
+805;Eczeem in de gehoorgang
+806;Eczeem vaak ook elders
+807;Eeltontwikkeling op drukplaatsen
+808;Een bepaalde spier of spiergroep aangedaan
+809;Een erfelijke factor in de familie
+810;Een gevoel van vervreemding
+811;Eenkennig bang voor vreemden
+812;Een langdurig staand beroep
+813;Een ongeluk of trauma in het verleden
+814;Een operatie aan de maag in het verleden
+815;Een plooi die in huid getrokken wordt blijft staan
+816;Een verwonding van penis
+817;Eenzijdig afhangend gezicht
+818;Eenzijdige vergroting van de klier
+819;Eenzijdige verlamming, plotseling en pijnloos
+820;Eenzijdig rood oog tijdens hoofdpijn
+821;Eerdere botbreuk
+822;Eerdere vroeggeboorte
+823;Eerst baby wat snotterig en hoesterig
+824;Eerst branderig gevoel
+825;Eerst doffe pijn
+826;Eerst erg pijnlijk, later minder
+827;Eerste verschijnselen jonge leeftijd
+828;Eerste vingerkootje is gebogen
+829;Eerst gevoel van onwelzijn
+830;Eerst herhaaldelijke luchtweginfecties
+831;Eerst jeuk
+832;Eerst krasje
+833;Eerst onregelmatig bruin gekleurde plekken
+834;Eerst pijn achter testikel
+835;Eerst pijn en tintelingen
+836;Eerst rood en pijn
+837;Eerst terugkerende stijfheid
+838;Eetbuien
+839;Eikel zwelt op
+840;Einde middelvoetsbeen grote teen wijst naar binnen
+841;Eiwit in urine
+842;Eiwit in urine tijdens zwangerschap
+843;Electrische schokken
+844;Elke lichaamsbeweging geeft verhoging hartslag
+845;Elke menstruatie weer
+846;Elleboog overstrekken
+847;Emotioneel instabiel
+848;Emotioneel verwaarlozing
+849;Emotionele instabiliteit
+850;En disulfiram tegen alcoholverslaving
+851;Enig bloed in urine
+852;Enige ademnood, kortademigheid
+853;Enige pijn
+854;Enige pijn bij langdurig staan
+855;Enigszins platte bruinige hoornige knobbel
+856;Enkele centimeters groot
+857;Enkele dagen na besmetting
+858;Enkele jeukende vlek op romp
+859;Enkele weken later ook zweren aan de genitaliën
+860;Enkele weken na verwonding nog pijnlijk
+861;Enkels raken elkaar en knieën niet
+862;Enkel voelt zwak en instabiel
+863;Enorme veelheid niet verklaarbare verschijnselen
+864;Epilepsie
+865;Epilepsie of toevallen
+866;Erectiestoornis
+867;Erectie stoornis
+868;Erectiestoornis bij speciale partner
+869;Erectiestoornis is plotseling
+870;Erfelijk
+871;Erg bleek
+872;Erger aan einde dag
+873;Erger bij alcoholgebruik en gekruid eten
+874;Erger bij bewegen
+875;Erger bij diep ademhalen
+876;Erger bij hoesten
+877;Erger bij inademen
+878;Erger bij inspanning
+879;Erger bij koud weer
+880;Erger bij lopen en rennen
+881;Erger bij nervositeit
+882;Erger bij stress
+883;Erger indien aandacht erop gevestigd wordt
+884;Erger na eten
+885;Erger na staan
+886;Erger wordende kortademigheid
+887;Erger wordende spierpijn
+888;Erg koude vingers, tenen
+889;Erg van streek
+890;Er heeft een bestraling voor kanker plaatsgehad
+891;Er is duidelijk een vreemde stand van botten
+892;Er is geen sprake van pyloris stenose
+893;Er is sprake van een ernstig trauma ongeluk
+894;Er is sprake van medicijnmisbruik
+895;Er lekt vloeistof serum, pus, bloed uit de aangedane huid
+896;Ernstige acne
+897;Ernstige diarree
+898;Ernstige en toenemende hoofdpijn ook 's nachts
+899;Ernstige gevallen: hoofdpijn
+900;Ernstige gevallen: verminderde urineuitscheiding
+901;Ernstige gevallen: zwellen gezicht en enkels
+902;Ernstige leerproblemen
+903;Ernstige vorm: zweren op vingers en tenen
+904;Ernstige zwelling lymfklieren hals
+905;Ernstig gewichtverlies
+906;Ernstig overgewicht
+907;Ernstig ziek
+908;Er ontstaan zweren met snel uitbreidende infectie
+909;Er ontstaat een acute onmiddellijke zwelling
+910;Er zijn geen andere ziekten
+911;Er zijn niet noodzakelijk andere verschijnselen
+912;Eten bijv.schelpdieren, medicijngebruik
+913;Etterachtige afscheiding uit oog
+914;Etterende oogafscheiding
+915;Ettervloed tussen tanden en tandvlees
+916;Eventueel shock
+917;Eventueel vergrote lymfklieren
+918;Extra hartslagen extrasystolie
+919;Extra hartslagen extrasystolie /boezemfibrillere
+920;Extra slagen
+921;Extra vingers: meestal buitenzijde hand
+922;Extreem koude handen/voeten
+923;Extreem koude vingers
+924;Extreme gevoeligheid voor licht
+925;Extreme gevoeligheid warm/koud
+926;Extreme lichtgevoeligheid met pijn
+927;Extreme zwelling
+928;Familiair
+929;Fenomeen van Raynaud treedt op
+930;Fijne grijze lijntjes op huid, tussen vingers
+931;Fijne grijze lijntjes vaak op polsen
+932;Fijne haargroei op lichaam
+933;Fijne roodbruine uitslag
+934;Fijne witte lijntjes op lippen, tong, wangen
+935;Flauw en duizelig gevoel
+936;Flauwtes
+937;Flauwtes, zweten
+938;Flauwvallen
+939;Flauwvallen bij inspanning
+940;Flinke zwelling, oedeem
+941;Flink zweten handen, oksels, voeten
+942;Fobie
+943;Fontanel blijft uitpuilen
+944;Fors geheugenverlies, verwardheid, angst
+945;Frekwent waterige dunne ontlasting
+946;Friemelen met de handen en/of voeten
+947;Functieverlies
+948;Futloosheid
+949;1 gezichtshelft hangt slap naar beneden
+950;Gaat geleidelijk erger
+951;Gaat gepaard met gestoorde suikerstofwisseling
+952;Gaat gepaard met hevige pijn
+953;Gaat in 2 tot 3 dagen over
+954;Gaatjes/caries
+955;Gaat over na dag of twee
+956;Gaat spontaan over en komt steeds weer terug
+957;Gaat vaak samen met lekken urine
+958;Gaat vaak vanzelf over
+959;Gaat vanzelf over als koorts zakt
+960;Gaat vanzelf over na de menstruatie
+961;Galbulten
+962;Gapen
+963;Gebarsten, droge, rode huid rondom tepel
+964;Gebitsbeschermer mogelijk
+965;Gebrek aan inzicht ziekteverschijnselen
+966;Gebrek aan levensvreugde
+967;Gebrek aan lichaamsbeweging
+968;Gebrek aan uithoudingsvermogen
+969;Gebrek aan zelfvertrouwen
+970;Gebrekkige infectieweerstand
+971;Gebroken neus
+972;Gedachten aan zelfdoding
+973;Gedeeltelijke blindheid
+974;Gedeeltelijke gezichtshelftverlamming
+975;Gedeeltelijk verlies gezichtsvermogen 1 oog
+976;Gedrag levert extra aandacht op
+977;Gedurende aantal dagen pus- en bloedafscheiding
+978;Gedurende bepaald jaargetijde
+979;Geeft na enige tijd korstjes
+980;Geelachtige afscheiding
+981;Geelachtige lichte verdikkingen aan huid ellebogen
+982;Geelachtige lichte verdikkingen aan oog
+983;Geelbruine ringen rond iris van de ogen
+984;Geel gekleurde huid en oogwit
+985;Geel gekleurd gezwelletje
+986;Geel oogwit
+987;Geel tandvlees
+988;Geelzucht
+989;Geelzucht verergert enkele dagen na geboorte
+990;Geen afscheiding uit penisopening
+991;Geen andere afwijkingen
+992;Geen andere fysieke afwijkingen
+993;Geen andere gezondheidsproblemen
+994;Geen andere klachten
+995;Geen andere symptomen
+996;Geen andere verschijnselen
+997;Geen andere ziekten
+998;Geen beperking
+999;Geen beweging
+1000;Geen breuk op een foto
+1001;Geen echte zorgen
+1002;Geen erectie kunnen krijgen
+1003;Geen gevolg lichamelijke aandoening
+1004;Geen incontinentie
+1005;Geen inzicht in eigen gedrag
+1006;Geen kortademigheid
+1007;Geen lichaamsbeharing
+1008;Geen nagels
+1009;Geen pigment
+1010;Geen pijn
+1011;Geen pijn aan het oog
+1012;Geen pijn bij slikken
+1013;Geen plaatselijke gevoeligheid
+1014;Geen puntje in het midden wel bij talgkliercyste
+1015;Geen reactie op licht van vergrote pupil
+1016;Geen reactie op pijnprikkels
+1017;Geen schaamhaar
+1018;Geen schietende pijn bij hoesten, niezen of persen
+1019;Geen secondaire geslachtskenmerken zoals borsten
+1020;Geen seksuele prikkeling
+1021;Geen specifieke symptomen
+1022;Geen spraak
+1023;Geen stuipen
+1024;Geen sufheid
+1025;Geen sufheid overdag
+1026;Geen tandbederf
+1027;Geen tandpijn
+1028;Geen transpiratie
+1029;Geen trek in eten
+1030;Geen uitscheiding van winden of ontlasting
+1031;Geen urine productie
+1032;Geen verband met inspanning of temperatuur
+1033;Geen verlies gezichtsvermogen
+1034;Geen verwardheid bij vertrouwde bezigheden
+1035;Geen zelfinzicht
+1036;Geen zichtbare symptomen
+1037;Geen ziekte
+1038;Geestelijk achteruitgaan
+1039;Geestelijke achterstand
+1040;Geestelijke ontwikkeling normaal
+1041;Geestelijke vermogens blijven intact
+1042;Geestelijke verwarring
+1043;Geheel of gedeeltelijk geblokkeerd neusgat
+1044;Geheugenverlies
+1045;Gehoor gaat geleidelijk achteruit
+1046;Gehoor is aangetast
+1047;Gehoor is overgevoelig
+1048;Gehoorproblemen
+1049;Gehoorverlies meestal met name 1 kant
+1050;Gejaagd gevoel
+1051;Gekleurde lijntjes onder nagels
+1052;Gele afscheiding in de ooghoeken
+1053;Gele huid
+1054;Gele huidverkleuring
+1055;Geleidelijke afbraak spierweefsel
+1056;Geleidelijke verandering in gezichtsvermogen
+1057;Geleidelijk groter worden wondje op tong met bloeden langdurig bestaand
+1058;Geleidelijk optreden vermoeidheid
+1059;Geleidelijk reukverlies
+1060;Geleidelijk toenemend reukverlies
+1061;Geleidelijk veranderen stoelgang
+1062;Geleidelijk verlies van gezichtsvermogen
+1063;Geleidelijk vertroebeling hoornvlies
+1064;Gele troebele verdikkingen in oogwit
+1065;Geluiden horen bijvoorbeeld ruisen, piepen of fluiten
+1066;Geluiden in het oor
+1067;Geluiden zijn langdurig aanwezig zowel overdag als ’s nachts
+1068;Geluid loopt synchroon met hartslag
+1069;Geneest normaal vanzelf
+1070;Geneest vanzelf binnen paar dagen
+1071;Geringe groei
+1072;Geringe haargroei
+1073;Gering leervermogen
+1074;Geslachts- en okselbeharing
+1075;Geslachtsrijpheid voor 9e jaar
+1076;Gespannen, pijnlijke borsten
+1077;Gespannen borsten
+1078;Gespannen gevoel in hoofd
+1079;Gespannen gevoel in nek
+1080;Gespannenheid
+1081;Gespannenheid, stress
+1082;Gespannen spieren
+1083;Gespannen spieren in de rug
+1084;Gespannen testikel
+1085;Gespleten lip, kaak en/of gehemelte
+1086;Gestaag toenemende zwelling
+1087;Gestoorde zelfkritiek
+1088;Getuite lippen bij uitademen
+1089;Gevoel alsof mieren op/onder huid lopen
+1090;Gevoel blaas is niet geheel leeg
+1091;Gevoel darm niet leeg is
+1092;Gevoel dat blaas nog vol is na urineren
+1093;Gevoel dat er iets in slokdarm zit
+1094;Gevoel dat het vuiltje uit het oog moet
+1095;Gevoel dat oor verstopt is
+1096;Gevoel dat oren verstopt zijn
+1097;Gevoel dat uitplassen niet volledig is
+1098;Gevoel dat urine branderig is
+1099;Gevoelens van schuld of walging na eten
+1100;Gevoelige billetjes
+1101;Gevoelige bobbel in buik
+1102;Gevoelige kuiten
+1103;Gevoelige onderbuik
+1104;Gevoelige plek onder de ribbenboog
+1105;Gevoelige rode ogen
+1106;Gevoelige rode zwelling van de knobbel
+1107;Gevoelige slapen
+1108;Gevoelige tanden
+1109;Gevoelige tanden en kiezen
+1110;Gevoelige vergrote lymfklieren
+1111;Gevoelige vergrote lymfklieren onder/achter kaak
+1112;Gevoeligheid achter de oren
+1113;Gevoeligheid in en rond het oog
+1114;Gevoeligheid in lichaamsdeel
+1115;Gevoeligheid lever
+1116;Gevoeligheidsveranderingen in gezicht, neus, mond
+1117;Gevoeligheid voor licht
+1118;Gevoelig tandvlees
+1119;Gevoel is uit gewrichten verdwenen
+1120;Gevoelloosheid, tintelingen in handen en voeten
+1121;Gevoel onwel zijn
+1122;Gevoel op kussens te lopen
+1123;Gevoelsproblemen in armen en benen, zoals prikkelingen, tintelingen, doof gevoel
+1124;Gevoel van algemeen onwelbevinden
+1125;Gevoel van druk in het oor
+1126;Gevoel van flauwvallen
+1127;Gevoel van korreltjes in oog
+1128;Gevoel van koude voeten, maar temp. normaal
+1129;Gevoel van onbehagen
+1130;Gevoel van onwel zijn
+1131;Gevoel van onwelzijn
+1132;Gevoel van speldenprikken
+1133;Gevoel van vreemd voorwerp van oog
+1134;Gevoel van vuiltje of irritatie van oog
+1135;Gevoel van ziek zijn
+1136;Gevoel varieert bij beweging
+1137;Gevoel voor stand van de gewrichten is weg
+1138;Gevolg: epilepsie
+1139;Gevolg: etterige wonden
+1140;Gevolg: lichamelijke handicaps
+1141;Gevolg: obstipatie
+1142;Gevolg: verhoogde vatbaarheid voor infecties
+1143;Gevolg: verstandelijke handicaps zwakzinnigheid
+1144;Gevolg bloeden: zwarte ontlasting
+1145;Gevolgd door hevige hoofdpijn
+1146;Gevolg ontstekingsremmers als medicijn
+1147;Gevolg van amfetaminen- of cannabismisbruik
+1148;Gevolg van te zwak werkende schildklier
+1149;Gevolg van voeding arm aan vocht te weinig drinken
+1150;Gewelddadig, vernielend
+1151;Gewichtstoename
+1152;Gewichtstoename, niet van ledematen
+1153;Gewichtstoename door vochtvasthouden
+1154;Gewichtsverlies
+1155;Gewichtverlies
+1156;Gewone verkoudheid plus:
+1157;Gewoonlijk aan één zijde van hoofd
+1158;Gewoonlijk bij opstaan na nachtrust
+1159;Gewoonlijk geen pijn
+1160;Gewoonlijk goedaardig
+1161;Gewoonlijk komt het in de familie voor
+1162;Gewoonlijk na beroerte
+1163;Gewrichten kunnen pijnlijk zijn
+1164;Gewrichten tussen kootjes pijnlijk
+1165;Gewricht is warm en rood
+1166;Gewricht schiet op slot
+1167;Gewrichtsmuis ontstaat door verwonding
+1168;Gewrichtsontsteking artritis na conjunctivitis
+1169;Gewrichtsontstekingen
+1170;Gewrichtspijn
+1171;Gewrichtspijn en stijfheid
+1172;Gewricht ziet eruit zeer pijnlijk te zijn, is niet zo
+1173;Gezicht, hals, bovendeel borst kan gezwollen zijn
+1174;Gezicht blaasjes, korstjes zijkant neus en 1 wang
+1175;Gezicht hals bovendeel borst kan opgezwollen zijn
+1176;Gezicht is afgewend van de kant van de zwelling
+1177;Gezicht lijkt rood en opgezet
+1178;Gezicht soms gezwollen
+1179;Gezichtsveld beperkt
+1180;Gezichtsveld lijkt beperkt, herstelt zich snel weer
+1181;Gezichtsveld wordt kleiner
+1182;Gezichtsvermogen gaat achteruit
+1183;Gezichtsvermogen is ernstig aangetast
+1184;Gezichtsvermogen is niet aangedaan
+1185;Gezichtsvermogen is niet aangetast
+1186;Gezichtsvermogen is niet veranderd
+1187;Gezichtsvermogen keert in enkele minuten terug
+1188;Gezichtsvermogen normaal
+1189;Gezicht zwelt op in enkele minuten
+1190;Gezonde eetlust
+1191;Gezonde vrouw
+1192;Gezondheid is goed
+1193;Gezondheidstoestand normaal
+1194;Gezwelletje is goedaardig
+1195;Gezwollen, witgele vlekken op de huid
+1196;Gezwollen buik
+1197;Gezwollen enkel
+1198;Gezwollen enkels
+1199;Gezwollen enkels bij infectie in been
+1200;Gezwollen gewrichten
+1201;Gezwollen handen
+1202;Gezwollen klieren niet pijnlijk
+1203;Gezwollen kuit, trombose in been, kan oorzaak zijn
+1204;Gezwollen lymfklieren
+1205;Gezwollen lymfklieren hals
+1206;Gezwollen lymfklieren in buurt bijv. oksel
+1207;Gezwollen of misvormde botten
+1208;Gezwollen of misvormde vingers
+1209;Gezwollen of pafferig gezicht
+1210;Gezwollen oksellymfklieren
+1211;Gezwollen oogleden
+1212;Gezwollen ooglid
+1213;Gezwollen pijnlijke klieren in hals
+1214;Gezwollen pijnlijke tong
+1215;Gezwollen testikel of scrotum
+1216;Gezwollen vinger
+1217;Gezwollen vinger die niet of moeilijk te buigen is
+1218;Gezwollen vingers
+1219;Gezwollen voeten
+1220;Geïrriteerd en handschrift verandering
+1221;Geïsoleerde knobbels of zwellingen hals
+1222;Gierende ademhaling
+1223;Gierende ademhaling, hoestaanval met benauwdheid
+1224;Gierende inademing
+1225;Gladde zwellingen
+1226;Glimmende huid
+1227;Goedaardige woekering dekweefsel in huid
+1228;Goede gezondheid
+1229;Gorgelen
+1230;Griep
+1231;Griepachtige verschijnselen
+1232;Grieperigheid
+1233;Grijsblauwe, niet jeukende ronde vlekjes op onderbuik en dijen
+1234;Grijsblauwe verkleuring huid
+1235;Grijze verkleuring bij tandvlees
+1236;Grijze verkleuring tandvlees en bruinverkleuring huid
+1237;Grimassen maken
+1238;Groei achterstand bij kinderen
+1239;Groeistoornissen
+1240;Groei stopt op 3 jarige leeftijd
+1241;Groeit langzaam
+1242;Groeit uit van het oogwit naar de pupil
+1243;Groep steenpuisten
+1244;Groep steenpuisten, onderhuids in verbinding
+1245;Groeven en rimpels in gezicht
+1246;Grommende klanken
+1247;Groot hoofd
+1248;Grote, knolvormige neus
+1249;Grote behoefte aan zout
+1250;Grote dadendrang
+1251;Grote dorst
+1252;Grotere gevoeligheid in nierstreek
+1253;Grotere gevoeligheid zijkant buikholte
+1254;Grote urineproductie
+1255;Grote zwelling schildklier meebewegend met slikken
+1256;'horlogeglas'vingernagels
+1257;herhaaldelijk of hardnekkige longontsteking
+1258;Haar: kale plekken
+1259;Haargroei op gezicht, borst en buik
+1260;Haargroei op gezicht, borst en buik bij vrouw
+1261;Haargroei op het lichaam
+1262;Haaruitval of kaalhoofdigheid
+1263;Haar wordt droog, futloos
+1264;Haar wordt minder vol
+1265;Haarwortels van wimpers met kleine ronde insecten
+1266;Hallucinaties
+1267;Halo
+1268;Halo's kringen zien rond lichtpunten nacht
+1269;Hamertenen
+1270;Handen en voeten voelen warm aan
+1271;Handen plat op grond met gestrekte benen
+1272;Handen worden pafferig door vasthouden vocht
+1273;Hangend ooglid bij aangetast oog
+1274;Hangerigheid
+1275;Harde, glimmende huid
+1276;Harde, kiezelachtige ontlasting
+1277;Harde deegachtig gezwollen huid
+1278;Harde onregelmatige vlezige bulten of vlekken
+1279;Harde onregelmatig gevormde knobbels aan buitenoor
+1280;Harde verhoornde glimmende huid
+1281;Harde verhoornde huid
+1282;Hardnekkige dunne waterige afscheiding
+1283;Hardnekkige zweer op lippen
+1284;Hardnekkige zweer op tongbasis
+1285;Hardnekkige zweren rond de lippen die snel bloeden
+1286;Hart, lever, longziekte
+1287;Hartaandoening
+1288;Hartafwijkingen
+1289;Hartfalen
+1290;Hart kan worden aangetast
+1291;Hartklachten
+1292;Hartklepproblemen
+1293;Hartkloppingen
+1294;Hart klopt langzaam
+1295;Hartritmestoornis
+1296;Hartritmestoornissen
+1297;Hartslag vaak niet te voelen op normale plaatsen
+1298;Hartslag verandert vaak abrupt van hoog naar laag
+1299;Hartstoornissen
+1300;Hartzwakte
+1301;Hartzwakte decompensatio cordis
+1302;Hartzwakte ontstaat
+1303;Hazenlip
+1304;Hazenlip of gehemeltespleet
+1305;Hebben extra huidplooi tussen oogleden en neusbrug
+1306;Heeft er een operatie plaatsgehad in het verleden
+1307;Heel soms lichtgekleurde ontlasting, onschuldig
+1308;Heesheid
+1309;Heesheid/stemverlies
+1310;Heesheid kan blijvend zijn
+1311;Heesheid of stemverlies
+1312;Heffen gestrekt been onmogelijk
+1313;Heffen gestrekt been pijnlijk
+1314;Heftig bloedverlies
+1315;Heftige, waterige diarree
+1316;Heftige pijn, of minder pijnlijk
+1317;Heldere afscheiding voor uit de neus
+1318;Helderrode bloedspoortjes op wc-papier
+1319;Helderrode bloedsporen in toilet na ontlasting
+1320;Helder vocht uit oor
+1321;Hele aangezichtszenuw of deel beschadigd
+1322;Hele wang kan gezwollen zijn
+1323;Herbelevingen en nachtmerries
+1324;Herhaling brengt pijn terug
+1325;Herstel binnen enkel dagen
+1326;Herstel duurt paar weken
+1327;Herstel enkele weken
+1328;Herstel na verloop van tijd
+1329;Herstel vergt tijd en is niet altijd volledig
+1330;Hese stem
+1331;Het denken verslechterd langzaam aan
+1332;Het ontstaan van zweren
+1333;Het overslaan van het hart soms maar niet steeds
+1334;Het zien is normaal
+1335;Heupontwrichting
+1336;Hevige, hardnekkige oorpijn
+1337;Hevige dorst en veel urineren
+1338;Hevige jeuk
+1339;Hevige jeuk in de gehoorgang
+1340;Hevige menstruatie
+1341;Hevige pijn
+1342;Hevige pijn beide slapen
+1343;Hevige pijn in botten
+1344;Hevige plotselinge pijn
+1345;Hevig transpireren
+1346;Hierdoor kunstmatige beademing noodzakelijk
+1347;Hierdoor kunstmatige voeding noodzakelijk
+1348;Hik
+1349;Hinderlijk, vooral bij stoten
+1350;Hirsutisme ongewenste haargroei
+1351;Hoe groter het bot, hoe meer callus
+1352;Hoek tussen nagelbed en huid verdwijnt
+1353;Hoest
+1354;Hoest, niezen
+1355;Hoestaanvallen
+1356;Hoesten
+1357;Hoesten, pijnlijk
+1358;Hoesten, vaak met wat bloed, kortademigheid
+1359;Hoesten met roodschuimend sputum
+1360;Hoesten met tussenpozen
+1361;Hoest met bloederig slijm
+1362;Hoest met bloederig slijm en pijn in de borst
+1363;Hoest met overvloedig schuimig rozig slijm
+1364;Hoest met slijm
+1365;Hoest neemt af in gewone buitenlucht
+1366;Hoeststoten
+1367;Hoest zonder slijm
+1368;Hoeveelheid verschilt van dag tot dag
+1369;Hoe verder de zwangerschap is hoe groter de kans
+1370;Hoge aanhoudende koorts
+1371;Hoge bloeddruk
+1372;Hoge bloeddruk en eiwit in de urine
+1373;Hoge bloeddruk in longen
+1374;Hoge bloeddruk laatste deel zwangerschap
+1375;Hoge koorts
+1376;Hoge koorts gedurende 3-4 dagen
+1377;Hoge lichaamstemperatuur
+1378;Hoge nood, maar weinig urineverlies
+1379;Hoge voetboog
+1380;Hoge voetboog met eeltplek op drukplaats
+1381;Holvoet pes cavus
+1382;Honger
+1383;Honger abnormaal
+1384;Hoofdhaar met ertussen zwarte puntjes die aan de haren gekleefd zijn
+1385;Hoofd hangt aan aangetaste zijde omlaag
+1386;Hoofdhuid schilferig
+1387;Hoofd kan groter worden
+1388;Hoofdletsel in het verleden
+1389;Hoofdpijn
+1390;Hoofdpijn, braken, pijn in bovenbuik
+1391;Hoofdpijn, jeuk
+1392;Hoofdpijn, rode ogen
+1393;Hoofdpijn, vaak licht
+1394;Hoofdpijn bandgevoel rond hoofd
+1395;Hoofdpijnen
+1396;Hoofdpijn kan ook langzamer opkomen
+1397;Hoofdpijn komt opzetten na inname medicijn
+1398;Hoofdpijn met koorts
+1399;Hoog gehalte mannelijke geslachtshormonen
+1400;Hoornvlies lijkt uit te puilen
+1401;Hoort stemmen, wordt achtervolgd
+1402;Horlogeglasnagels
+1403;Huid bij blaren laat snel los door bijv. stoten
+1404;Huid boven gewricht soms verdikt
+1405;Huid boven knobbel is rimpelig kuiltje
+1406;Huid boven knobbel rimpelig kuiltje
+1407;Huid boven lymfklier gaat open
+1408;Huid boven slagader is ontstoken
+1409;Huid droog en ruw
+1410;Huid enigszins rood
+1411;Huid gaat kloven en barsten
+1412;Huid gaat pijnlijk kloppen
+1413;Huid is op die plekken glad en hard
+1414;Huid is warm, glanzend, rood
+1415;Huid met vlekkerig pigment
+1416;Huid neus verminderd gevoelig
+1417;Huid onregelmatig, putjes
+1418;Huidoppervlak is beschadigd
+1419;Huidoppervlak is ruw
+1420;Huidplooi aan de binnenste ooghoek
+1421;Huidplooien
+1422;Huidplooien hebben geen aandoening
+1423;Huid raakt verdikt
+1424;Huid rode warme plekken met gezwollen glanzende pijnlijke huid
+1425;Huid rood
+1426;Huid tenen gaat kloven en barsten
+1427;Huiduitslag
+1428;Huidverandering rond oog
+1429;Huidverkleuring, eerst roodachtig paars
+1430;Huidverkleuring donkerrood in de buurt van wond
+1431;Huidvervelling
+1432;Huid vettig
+1433;Huidvlekjes, rood spinvormigi
+1434;"Huidvlekken zien eruit als ""schietschijf"""
+1435;Huid voelt heet aan
+1436;Huid wordt pijnlijk
+1437;Huid wordt rood en zacht
+1438;Huid zwelt op
+1439;Huid zwelt rood op rond nagel
+1440;Huilbuien
+1441;Huilbuien en schuldgevoelens
+1442;Huilbuien opgejaagd gevoel
+1443;Huilerig
+1444;Hyperactiviteit
+1445;Hyperventilatie
+1446;Hysterisch gedrag
+1447;Ichaam aan zelfde zijde getroffen als gezicht
+1448;Iets verhoogde hartslag
+1449;Ijzertekort
+1450;Impotentie
+1451;Impulsiviteit
+1452;In aanvallen optredende doofheid
+1453;In begin geen huidveranderingen
+1454;In buikholte harde buik
+1455;In centrum schede zwaar gevoel door bult
+1456;In centrum vagina of schede zwaar gevoel door bult
+1457;Incontinentie urine
+1458;Incontinentie, moeite met urineren
+1459;Incontinentie meestal voor urine en ontlasting
+1460;In de buurt van de infectie
+1461;In de randen kan men nog zien
+1462;Indien afscheiding: geslachtsziekte
+1463;Indien amandelontsteking witte puntjes op amandel
+1464;Indien bekneld: eventueel braken
+1465;Indien bekneld: niet meer terug te duwen
+1466;Indien bekneld: zeer pijnlijk
+1467;Indien bij oor: slechthorendheid
+1468;Indien chronisch zeer grote zwelling
+1469;Indien gewricht stijver wordt neemt pijn af
+1470;Indien heel snel of heel langdurig: ademnood
+1471;Indien in knie: pijn bij traplopen
+1472;Indien in oksel mogelijk gezwollen borst
+1473;Indien niet ingedaald na 1ste jaar operatie nodig
+1474;Indien niet verdwijnt dan spraaktherapie
+1475;Indien pijn in borst: nader onderzoek
+1476;Indigestie
+1477;Indigestie dyspepsie
+1478;In enkele weken tijd aantal malen
+1479;In ernstige gevallen: algehele verkramping
+1480;In ernstige gevallen blaarvorming
+1481;In ernstige gevallen shock
+1482;Infectie verkoudheid
+1483;Infectie bovenste deel traankanaal
+1484;Infecties m.n. mond
+1485;Infectie van wortel 1 wimperhaar
+1486;Infectie verergert door krabben
+1487;Ingebeelde ziektes
+1488;Ingespannen werken
+1489;Ingetrokken tepel
+1490;In gezicht, op borst, op schouders en rug
+1491;Ingezonken fontanel baby
+1492;Ingezonken of uitpuilende plekken op het hoofd
+1493;Ingezonken of uitpuilende plekken op hoofd baby
+1494;Ingezonken of uitpuilende plek op hoofd
+1495;In het verleden verdraaiing van het gewricht
+1496;In later stadium: geelzucht
+1497;In later stadium pas pijn
+1498;In liezen zachte zwelling
+1499;In loop der jaren toenemen kortademigheid en piepen
+1500;In maag-darmkanaal zelfde verschijnselen
+1501;In okselholte pijnlijke klieren
+1502;In okselruimte, lies, gezicht en nek
+1503;Insectenbeet
+1504;Instabiliteit enkelgewricht
+1505;Intelligentie was normaal
+1506;Invaliditeit
+1507;Invallend oog enigszins
+1508;Irritatie
+1509;Irritatie baarmoedermond
+1510;Irritatie en jeuk aan anus
+1511;Irritatie heup
+1512;Irritatie rondom de schede
+1513;Is aan het afsterven en kan zelfs afvallen
+1514;Is de koorts gemeten bij voorkeur via anus
+1515;Is een streptococcen infectie bacterie
+1516;Is er een beademing of operatie geweest
+1517;Is er een primaire vorm van kanker bekend
+1518;Is er er een ontsteking na enkele dagen
+1519;Is er sprake van een andere ziekte
+1520;Is er sprake van pilgebruik
+1521;Is goedaardig
+1522;Is het een lichte bloeding
+1523;Is niet te corrigeren met bril
+1524;Is onschuldig
+1525;Is te corrigeren met bril of contactlenzen
+1526;Jarenlang
+1527;Jarenlang alcoholmisbruik
+1528;Jeugdherinneringen blijven
+1529;Jeuk
+1530;Jeuk, ongemak
+1531;Jeukend bultje op huid
+1532;Jeukende anus
+1533;Jeukende huid
+1534;Jeukende strepen zijn nu en dan te zien
+1535;Jeukende tenen
+1536;Jeukende uitslag
+1537;Jeukende uitslag op ellebogen, knieën, zitvlak
+1538;Jeukende verhoogde strepen op huid
+1539;Jeukende vlekjes met in midden een wat lichtere zwelling
+1540;Jeukende vulva
+1541;Jeukend of ontstoken ooglid
+1542;Jeukend oor
+1543;Jeuk in het schaamhaar, okselhaar of borsthaar
+1544;Jeuk in je neus
+1545;Jeuk kan mensen uit slaap houden
+1546;Jeuk moedervlek
+1547;Jeuk of verdoofd gevoel in vingers en tenen
+1548;Jeuk op hoofd
+1549;Jeuk rond vagina, penis, anus of bilspleet
+1550;Jeuk verergert bij spanning
+1551;Jeuk vulva
+1552;Jeuk zonder uitslag
+1553;Jeuk zonder uitslag in laatste maanden
+1554;Je voelt meniscus knappen
+1555;Jicht
+1556;Jongeren: duidelijk zichtbare ribben en borstbeen
+1557;Jongetjes van 2-3 jaar
+1558;"""kaakklem' met grijnzende uitdrukking"
+1559;Kaak zit 'op slot'
+1560;Kaal worden
+1561;Kaken lijken erg groot
+1562;Kale plekken beginnen elkaar te raken
+1563;Kan 's nachts optreden
+1564;Kan beweging ernstig beperken
+1565;Kan bewusteloos raken
+1566;Kan bij geboorte optreden
+1567;Kan bloeden
+1568;Kan bloeden en pijn in buik veroorzaken
+1569;Kan borrelend geluid maken
+1570;Kan door neusbijholten veroorzaakt worden
+1571;Kan door tandvlees en kiezen veroorzaakt worden
+1572;Kan een hersenbloeding ontstaan
+1573;Kan erfelijk zijn
+1574;Kan gepaard gaan met knarsend geluid
+1575;Kan gevolg langdurige seksuele activiteit
+1576;Kan gevolg zijn van bloedafwijking
+1577;Kan goed- of kwaadaardig zijn
+1578;Kan groei beïnvloeden
+1579;Kan in allebei de knieën
+1580;Kan in sommige gevallen overgaan in dementie
+1581;Kan in veel verschillende lichaamsdelen voorkomen
+1582;Kan knie niet bewegen
+1583;Kan korrelige structuur onder oogleden zitten
+1584;Kan lang gevoelig blijven
+1585;Kan lang nog harde bult zitten
+1586;Kan leiden tot bewustzijnsverlies
+1587;Kan leiden tot darmperforatie en buikvliesontsteki
+1588;Kan leiden tot gewrichtspijn
+1589;Kan leiden tot huiduitslag
+1590;Kan leiden tot pijnlijke rode knobbels scheenbeen
+1591;Kan leiden tot pijnlijke rode ogen
+1592;Kan littekens en putjes in huid geven
+1593;Kan met knakje weer loskomen
+1594;Kan moeilijk zijn met borstvoeding
+1595;Kan na 24 uur weer over zijn
+1596;Kan niet gestrekt worden
+1597;Kan ontstaan door ontsteking
+1598;Kan ontstaan door verwonding hart, bijv steekwond
+1599;Kan ook dikke enkel en hele been verdikt zijn
+1600;Kan ook elders op lichaam
+1601;Kan ook na veel gebruik disc/walkman
+1602;Kan ook op of bij geslachtsdelen/anus voorkomen
+1603;Kan ook weer maanden wegblijven
+1604;Kan op huid olifant lijken elefantiasis
+1605;Kan op tong bijten door kaakklem
+1606;Kan over hele lichaam voorkomen
+1607;Kan pijnlijk worden
+1608;Kan plotseling opzetten en verdwijnt ook abrupt
+1609;Kan pus vormen
+1610;Kan snel bloeden bij stoten
+1611;Kans op leukoplakie
+1612;Kans op longkanker
+1613;Kans op mond-keelkanker
+1614;Kans op onvruchtbaarheid
+1615;Kan terug in buik worden geduwd
+1616;Kan tot ademhalingsmoeilijkheden leiden
+1617;Kan uitbreiden naar beide zijden
+1618;Kan uiteindelijk blindheid veroorzaken
+1619;Kan uitstralen naar punt schouder
+1620;Kan verdwijnen en weer terugkomen
+1621;Kan zeer pijnlijk worden
+1622;Kan zich ontsteking ontwikkelen
+1623;Kan zich uitbreiden naar de anus
+1624;Kan zich wekenlang voordoen
+1625;Karakteristieke hartruis
+1626;Karakteristiek verandering in elektrocardiogram
+1627;Karakterveranderingen
+1628;Keelamandelen zijn vergroot
+1629;Keelontsteking
+1630;Keelontsteking, hoesten
+1631;Keelpijn
+1632;Keelpijn met koorts
+1633;Keel ziet rood
+1634;Kenmerkend hoofdpijnpatroon
+1635;Kies of tand is beschadigd
+1636;Kijk bij volvulus darm raakt a.h.w. in de knoop
+1637;Kijk ook bij volvulus, darm draait om zichzelf
+1638;Kil gevoel, koude klamme handen
+1639;Kinderen: nachtelijk hoesten
+1640;Kind is koortsig
+1641;Kind kijkt eigenlijk maar met 1 oog
+1642;Kind krijgt gerimpelde huid
+1643;Kind leidt langdurig honger
+1644;Kind verstijft plotseling
+1645;Kind voelt zich beroerd
+1646;Kin wijst naar andere schouder
+1647;Kippenvel
+1648;Klachten beperken dagelijks leven
+1649;Klachten kunnen zowel mild als ernstig zijn
+1650;Klachten verdwijnen 's nachts
+1651;Klachten verdwijnen als been hoog ligt
+1652;Klamme huid, koud, bleek
+1653;Klamme huid zwakke onregelmatige pols
+1654;Klassiek is rechter die in hoek gaat staan plassen
+1655;Klein doperwtacht bultje onder het ooglid
+1656;Kleine, helrode vlekjes
+1657;Kleine adertjes spin in gezicht en op bovenlijf
+1658;Kleine blaasjes op de huid
+1659;Kleine bloedvaatjes rood
+1660;Kleine haarstoppels blijven over
+1661;Kleine hoeveelheden urine
+1662;Kleine lichaamslengte
+1663;Klein en driehoekige plooi
+1664;Kleine of geen knieschijven
+1665;Kleine of geen nagels
+1666;Kleine onregelmatige pupil
+1667;Kleine penis
+1668;Kleine puistjes
+1669;Kleine puntachtig blauwe plekjesen
+1670;Kleine rode bloedvatverwijdingkjes rond lippen
+1671;Kleine rode verwijde bloedvaatjes
+1672;Kleine rode vlekjes teleangiectasieën
+1673;Kleine rode vlekken
+1674;Kleine spiertrekkingen
+1675;Kleine stevige knobbel
+1676;Kleine tanden
+1677;Kleine testikels
+1678;Kleine verwondingen in buurt melanoom
+1679;Kleine witte wormpjes in ontlasting
+1680;Kleine witte wormpjes zichtbaar op huid
+1681;Klein zacht bultje dat je kan bewegen
+1682;Kleurenblindheid
+1683;Kleurverandering moedervlek
+1684;Kloofjes
+1685;Kloofjes in de huid
+1686;Kloofjes in de tepels
+1687;Kloofjes in mondhoeken
+1688;Kloppende pijn
+1689;Kloppende pijn in het uitwendige oor
+1690;Kloppende pijn rond anus of in endeldarm
+1691;Kloppend gevoel in buik
+1692;Kloven
+1693;Knappende of krakende geluiden in oor
+1694;Knie doet het niet meer
+1695;Knie instabiel
+1696;Knie is gebogen
+1697;Knie is gezwollen
+1698;Knie kan dikker worden
+1699;Knie kan niet bewogen worden
+1700;Knie kan op slot schieten
+1701;Knie kan soms niet helemaal gestrekt worden
+1702;Knie overstrekken
+1703;Knie schiet op slot
+1704;Knieschijf is naar links en rechts te verschuiven
+1705;Knieschijf is te voelen aan 1 kant, schuift terug
+1706;Knie voelt onstabiel aan
+1707;Knie zwikt door
+1708;Knieën drukken tegen elkaar
+1709;Knieën opgetrokken door pijn
+1710;Knieën staan uit elkaar
+1711;Knobbel gemakkelijk te bewegen
+1712;Knobbel niet vrij te bewegen
+1713;Knobbel niet vrij te bewegen van ondergrond
+1714;Knobbels en bulten in mond, tong, gehemelte
+1715;Knobbels in testikel of scrotum
+1716;Knobbels naast eindgewricht vingers
+1717;Knobbels of zwellingen hals
+1718;Knobbels of zwellingen van huid
+1719;Knobbel steekt ligt uit boven omringende huid
+1720;Knobbels zijn vaak cysten
+1721;Knobbels zonder pijn en veranderd gevoel in testikel
+1722;Knobbeltje achter tepel
+1723;Knobbeltje in borst en borst is gevoelig
+1724;Knobbeltje in borst wisselt in grootte met cyclus
+1725;Knobbeltje in de borst
+1726;Knobbeltje in tong, mond, gehemelte
+1727;Knobbeltje kan klikken bij vingerstrekken
+1728;Knobbeltje op of in testikel
+1729;Knobbeltjes in de huid
+1730;Knobbeltjes in de liezen
+1731;Knobbeltjes in lies
+1732;Knobbeltjes in strottenhoofd
+1733;Knobbeltje voelt hard
+1734;Koliekachtige pijn
+1735;Koliekachtige pijn in buik, die komt en gaat
+1736;Kolieken
+1737;Komt bij donkere rassen meer voor
+1738;Komt herhaaldelijk voor
+1739;Komt in de familie voor
+1740;Komt in vele vormen voor
+1741;Komt meer bij jongens dan bij meisjes voor
+1742;Komt meer voor bij ouderen
+1743;Komt meestal 's nachts op
+1744;Komt meestal voor bij jonge vrouwen
+1745;Komt ook voor aan 1 kant van gezicht
+1746;Komt opzetten bij inspanning
+1747;Komt plotseling op
+1748;Komt soms voor bij ziekte van Addison
+1749;Komt steeds terug
+1750;Komt terug bij opstaan
+1751;Komt veel voor bij leren spreken
+1752;Komt veel voor bij senioren
+1753;Komt veel voor op middelbare en oudere leeftijd
+1754;Komt voor bij bindweefsel aandoeningen
+1755;Komt voor bij een verslapping bekkenbodemspieren
+1756;Komt voor bij reumatische aandoeningen
+1757;Komt voor op hoofdhuid, in nek en op scrotum
+1758;Komt weer naar buiten bij inspanning
+1759;Komt weer naar buiten bij niezen, hoesten
+1760;Koorts
+1761;Koorts bij infectie
+1762;Koorts, pijnlijke ogen
+1763;Koorts, vermoeidheid
+1764;Koortsaanvallen
+1765;Koortsaanvallen infectie agv. wegvallen weerstand
+1766;Koortsaanvallen om paar dagen of weken
+1767;Koorts enkele uren hoog
+1768;Koorts hoest met bloederig slijm
+1769;Koorts kan bij baby 's avonds snel heel hoog zijn
+1770;Koorts langdurig
+1771;Koorts langer dan 2 weken
+1772;Koorts of lagere lichaamstemperatuur
+1773;Koorts pijn en ziekzijn
+1774;Koortsrillingen
+1775;Kop penis blijft zacht
+1776;Korsten goudbruin of zwart
+1777;Korsten heten schurft
+1778;Korstvormende, bloedende wondjes aan de lippen
+1779;Korstvorming
+1780;Korstvorming bij de oogleden
+1781;Korstvorming en schilfering tussen tenen
+1782;Kortademigheid
+1783;Kortademigheid 's nachts
+1784;Kortademigheid, erger als men plat ligt
+1785;Kortademigheid, vermoeidheid
+1786;Kortademigheid bij inspanning
+1787;Kortademigheid bij platliggen
+1788;Kortademigheid bij plat liggen
+1789;Kortademigheid bij plat op rug liggen
+1790;Kortademigheid die niet in verhouding inspanning staat
+1791;Kortademigheid en hoesten
+1792;Kortademigheid en piepen
+1793;Kortademigheid en pijn in de borst
+1794;Kortademigheid en vermoeidheid
+1795;Korte brede nek
+1796;Korte brede nek geestelijk gehandicapt
+1797;Korte termijngeheugen neemt af
+1798;Korte tijd tussen huidige en vorige zwangerschap
+1799;Korte tijd verlies reuk smaak
+1800;Korte vingers
+1801;Kort gevoel van zweverigheid
+1802;Kort in beide ogen
+1803;Kort postuur
+1804;Koud, verdoofd gevoel
+1805;Koude klamme huid
+1806;Koude ledematen vooral benen
+1807;Koude lichaamsuiteinden
+1808;Koud gevoel in handen, armen, schouders, nek, rug
+1809;Kouwelijk
+1810;Kouwelijkheid
+1811;Krachtverlies in spieren
+1812;Kramp
+1813;Krampaanvallen
+1814;Krampachtige pijn bij lopen, vooral kuiten
+1815;Krampachtige pijn in benen, vooral kuitspier
+1816;Krampachtig naar adem snakken
+1817;Kramp in de darmen
+1818;Kramp in kaken en gelaat
+1819;Kramp of spanning in spieren vagina
+1820;Krassend geluid bij inademen stridor
+1821;Kriebelende hoest
+1822;Krijgen van tandjes
+1823;Krijgt haviksneus
+1824;Krijgt opdrachten van hogere wezens
+1825;Kring rondom hoornvlies
+1826;Kromming bij erectie
+1827;Kromming erger bij vooroverbuigen
+1828;Kromming van de penis
+1829;Kromstaande pijnlijke vinger
+1830;Kuitpijn en/of kuitkramp
+1831;Kunnen niet meer gestrekt worden
+1832;Kunnen ontsteken en zweren
+1833;Kunnen ook donkerder worden door zon
+1834;Kunnen spontaan verdwijnen
+1835;Kunnen zich zweren ontwikkelen
+1836;Kwabben in het gezicht
+1837;Kwijlen
+1838;Kyfose, leidend tot lengteverlies
+1839;Laag Hb
+1840;Laag IQ
+1841;Lage bloeddruk
+1842;Lage eigendunk
+1843;Lagere barse stem
+1844;Langdurende erectie langer dan een half to 1 uur
+1845;Langdurige erectie
+1846;Langdurige erectie priapisme
+1847;Langdurige menstruaties
+1848;Langdurige moeheid
+1849;Langdurige zwelling
+1850;Lange basis van de driehoek verst van hoornvlies
+1851;Lange dunne botten
+1852;Langzaam afnemende gezichtsscherpte
+1853;Langzaam beven
+1854;Langzaam bewegen
+1855;Langzaam groeiende vorm huidkanker
+1856;Langzaam optredende verlamming
+1857;Langzame 'dreunende' hartslag
+1858;Langzame pols
+1859;Langzame toename van gewicht bij ouder worden
+1860;Lang zijde dicht bij hoornvlies
+1861;Last voelen van tanden en of kiezen
+1862;Late complicatie diabetes
+1863;Late complicatie hart en vaatziekten
+1864;Later: acne
+1865;Later: evenwichtsstoornissen
+1866;Later: groter worden clitoris
+1867;Later: stijfheid andere gewrichten
+1868;Later: stijfheid in het gezicht
+1869;Later: zwelling andere gewrichten
+1870;Later abnormale groei groot of klein
+1871;Later als klein deeltje pinda is longontsteking
+1872;Later donkerbruin of zwart
+1873;Later lusteloos en slap
+1874;Later vlekjes over hele lichaam
+1875;Laxeren en braken
+1876;Ledematen soms gezwollen
+1877;Leidt tot hersenbeschadiging
+1878;Lekken bij drukverhoging in de buik
+1879;Lekken bij inspanning, hoest, niezen of persen
+1880;Lekken van urine bij lachen
+1881;Lekt bloed uit tepel
+1882;Lengteverlies
+1883;Lengteverlies door krimpen van wervels
+1884;Let op schaafwondjes, blauwe plekken, onverzorgd
+1885;Leukoplakie witte vlek
+1886;Leven lijkt onbelangrijk
+1887;Leveraandoening cirrose
+1888;Leverbeschadiging
+1889;Leverziekte
+1890;Libidoverlies
+1891;Libidoverlies of impotentie
+1892;Libido vermindering
+1893;Lichaam raakt vergiftigd misselijk, benauwd, braken
+1894;Lichaamsdeel kan verdoofd raken
+1895;Lichaamsgeur vooral voeten
+1896;Lichaamslengte afnemend
+1897;Lichaamslengte klein
+1898;Lichamelijke achteruitgang
+1899;Licht drukkend gevoel in de oren
+1900;Lichte hoofdpijn
+1901;Lichte huiduitslag kan
+1902;Lichte koorts
+1903;Lichte mate van geelzucht
+1904;Lichte tremor beven
+1905;Lichte vorm van geelzucht mogelijk
+1906;Lichtflitsen zien
+1907;Lichtgekleurde ontlasting
+1908;Licht gevoel in hoofd
+1909;Licht gevoel in hoofd bij opstaan
+1910;Licht grijze ring rond de iris
+1911;Licht in het hoofd
+1912;Licht in het hoofd, zweten, duizelig
+1913;Lichtje in de ogen schijnt niet in beide pupillen
+1914;Lichtovergevoeligheid
+1915;Licht pijnlijk
+1916;Lichtschuw is vaak het eerste teken van de ziekte
+1917;Lichtste vorm: slechts boezemfibrilleren
+1918;Liefst voorover zitten
+1919;Liggend op rug zijn klachten afwezig
+1920;Lijkt herstel op dag 4 of 5
+1921;Lijkt hete aardappel in keel te zitten
+1922;Lijkt in winter donkerder door lichtere huid
+1923;Lijkt in zomer lichter door bruine huid
+1924;Lippen worden blauw
+1925;Lippen zwellen op in enkele minuten
+1926;Litteken groeit woekerachtig
+1927;Littekens
+1928;Littekens, putjes, acne
+1929;Littekens op hoornvlies met als gevolg blindheid
+1930;Litteken steekt uit boven huid
+1931;Littekens van injecties passend bij drugsgebruik
+1932;Littekens van naalden
+1933;Littekenvorming op wang kan ontstaan
+1934;Lokale gevoeligheid
+1935;Longonstekingen
+1936;Longontsteking
+1937;Loopneus
+1938;Loopneus, niezen met helder slijm
+1939;Loopoor
+1940;Lopen is onmogelijk
+1941;Los botje kan te voelen zijn op of bij knieschijf
+1942;Loslaten van nagels
+1943;Luchtweginfecties door voedsel in luchtpijp
+1944;Luchtweginfecties terugkerend
+1945;Lusteloos
+1946;Lusteloos en moe
+1947;Lusteloosheid
+1948;Lusteloosheid, apathie
+1949;Lymfeklieren hals gezwollen
+1950;Lymfklieren gezwollen
+1951;Lymfklieren hals vergroot
+1952;Lymfklieren in buurt zijn vergroot
+1953;Lymfklieren in hals vergroot
+1954;Lymfklieren kunnen pus afscheiden
+1955;Lymfklieren soms vergroot
+1956;Lymfklieren vergroten
+1957;Lymfklieren zijn gevoelig
+1958;Lymfklieren zijn gevoelig bij aanraken
+1959;Lymfklieren zijn vergroot
+1960;Lymfklier is gevoelig
+1961;Lymfkliervergroting in liezen
+1962;Maag- darminhoud met oud bloed bruine sliertjes
+1963;Maagdenvlies kan nog aanwezig zijn
+1964;Maagkrampen
+1965;Maagpijn
+1966;Maagzweer
+1967;Maanden dik been met name onderbeen aan 1 kant
+1968;Maanden na veneuze trombose kan been dik blijven
+1969;Malabsorptie slechte opname voedsel door darm
+1970;Manisch gedrag
+1971;Man is lang
+1972;Man is of heel lang of heel klein
+1973;Mank lopen
+1974;Maskergelaat
+1975;Massage geeft verlichting
+1976;Matige overgevoeligheid voor licht
+1977;Matige pijn
+1978;Matige pijn bij bewegen oog
+1979;Matig pijnlijk en rood
+1980;Medisch spoedgeval
+1981;Meerdere eierstokcysten
+1982;Meerdere terugkerende zenuwtrekkingen tics
+1983;Meestal 's nachts
+1984;Meestal 1 oog
+1985;Meestal aan 1 oog
+1986;Meestal aan buitenkant wenkbrauw
+1987;Meestal aan centrale gezichtsveld
+1988;Meestal bij ouderen
+1989;Meestal boven de 50 jaar
+1990;Meestal eerdere hoornvliesbeschadigingen
+1991;Meestal eerst ontdekt op school op bord kijken
+1992;Meestal gedeeltelijke verlies gezichtsvermogen
+1993;Meestal geen pijn
+1994;Meestal geen verschijnselen
+1995;Meestal huidverandering rond oog, neus, oog
+1996;Meestal jeuk
+1997;Meestal jong volwassenen
+1998;Meestal na trauma
+1999;Meestal na verslikking
+2000;Meestal nog wel kunnen strompelen
+2001;Meestal onvruchtbaar
+2002;Meestal ook andere aangeboren afwijkingen
+2003;Meestal op huid vulva
+2004;Meestal op middelbare leeftijd optredend
+2005;Meestal op oudere leeftijd
+2006;Meestal pijnlijk
+2007;Meestal pink en ringvinger
+2008;Meestal slechts 1 oog aangedaan
+2009;Meestal urineverlies bij hoesten of lachen
+2010;Meestal weinig gedronken
+2011;Meestal zwelling scrotum
+2012;Meest bij oudere mannen
+2013;Meest bij vrouwen tussen 30-50 jaar
+2014;Meeste baby's groeien er na een jaar overheen
+2015;Meest rond ogen xanthelasmata
+2016;Meniscus schuift weg
+2017;Men kan niet meer rechtop staan
+2018;Menstruatieproblemen
+2019;Menstruatie soms pijnlijk
+2020;Messcherpe, zeurende pijn aan de hiel
+2021;Messcherpe, zeurende pijn onder de hiel
+2022;Met behulp van lijstjes kan men zich behelpen
+2023;Met korstjes
+2024;Met name bij zure voedingsmiddelen
+2025;Midden achter borst trekkend naar kaak of arm
+2026;Middenoorontsteking
+2027;Milde vorm van overbeharing hirsutisme
+2028;Minder bewegen
+2029;Minder goede darmwerking
+2030;Minder knipperen smeert de ogen minder
+2031;Minder zweet productie op dit deel gezicht
+2032;Misselijk
+2033;Misselijk bij ontwaken
+2034;Misselijkheid
+2035;Misselijkheid, braken
+2036;Misselijkheid, braken, diarree
+2037;Misselijkheid, braken, pijn en zwelling van 1 testikel
+2038;Misselijkheid, hik, uitbraken maaginhoud
+2039;Misselijkheid, soms braken
+2040;Misselijkheid, zweten
+2041;Misselijkheid en braken
+2042;Misvormde nagel
+2043;Misvormde neus
+2044;Misvormde vinger
+2045;Misvormde vinger hand
+2046;Misvorming
+2047;Misvorming, bult op pols
+2048;Misvormingen door veelvuldige breuken
+2049;Misvorming op breukplaats
+2050;Misvorming vingers, handen
+2051;Moe
+2052;Moedervlek kleurverandering, bloeden, jeuk, groei
+2053;Moeilijke situaties uit de weg gaan
+2054;Moeilijk lopen
+2055;Moeilijk lopen waggelen
+2056;Moeilijk of vaak urineren, incontinentie
+2057;Moeilijk omgaan met complexe situaties
+2058;Moeite/onvermogen symmetrisch te glimlachen
+2059;Moeite/onvermogen te knipperen of ogen te sluiten
+2060;Moeite met aantrekken kousen, schoenen
+2061;Moeite met ademhalen tijdens het voeden
+2062;Moeite met contact leggen en onderhouden
+2063;Moeite met lopen
+2064;Moeite met neusademhaling
+2065;Moeite met schrijven
+2066;Moeite met slikken
+2067;Moeite met slikken, oprispen voedsel
+2068;Moeite met slikken door zwelling keel
+2069;Moeite met spreken
+2070;Moeite met urineren
+2071;Moeite met urineren kleine hoeveelheden
+2072;Moeite met urineren, donkere urine
+2073;Moeizaam denken
+2074;Moeizame ademhaling
+2075;Moet je inspannen om blaas te legen
+2076;Mogelijk afscheiding
+2077;Mogelijk alcohollucht
+2078;Mogelijk algemene tintelingen in been
+2079;Mogelijk blauwachtige huidverkleuring liezen
+2080;Mogelijk doffe pijn aan getroffen zijde
+2081;Mogelijk geelzucht
+2082;Mogelijk geïrriteerde plek in of bij vagina
+2083;Mogelijk haaruitval op die plekken
+2084;Mogelijk hevig transpireren
+2085;Mogelijk koorts
+2086;Mogelijk koorts of rillen
+2087;Mogelijk paarsrode vlekjes op huid, blauwe plekjes
+2088;Mogelijk pijn in armen
+2089;Mogelijk slap gevoel in armen
+2090;Mogelijk spraakproblemen
+2091;Mogelijk stuipen
+2092;Mogelijk urinedruppelen
+2093;Mogelijk verandering gevoel in been
+2094;Mogelijk verlamming arm/been
+2095;Mogelijk voelt men zacht bobbeltje
+2096;Mogelijk zweren
+2097;Mompelen, onduidelijk spreken
+2098;Mompelen of onduidelijk spreken
+2099;Mond is slap
+2100;Mond moeilijk te openen
+2101;Neiging tot obsessief krabben
+2102;neusbijholteontsteking
+2103;Na 1 tot 3 dagen bloederige diarree met slijm
+2104;Na 3-4 dagen koorts aantal dagen minder
+2105;Na aanraken loslaten van buik doet pijn
+2106;Na aanval: slaperigheid, verwardheid
+2107;Naar ammoniak en urine ruikende adem
+2108;Naar buiten gekeerde oogleden niet ogen zelf
+2109;Naar keel grijpen
+2110;Naar urine ammoniak ruikende adem
+2111;Na beet pijnlijke zwelling
+2112;Na bestraling lymfklieren in oksel voelbaar
+2113;Na ca. 2 weken klein rood bobbeltje
+2114;Nachtblindheid
+2115;Nachtblindheid is eerste symptoom
+2116;Nachtelijke aandrang
+2117;Nachtelijk ijlen
+2118;Nachtelijk transpireren
+2119;Nachtelijk urineren
+2120;Nachtelijk zweten
+2121;Nachtmerries
+2122;Nadat huid lang is blootgesteld aan hitte
+2123;Na drinken alcohol
+2124;Nadruppelen
+2125;Na een ongeval of misstap
+2126;Na enkele dagen huiduitslag blaasjes
+2127;Na enkele dagen kleinere plekjes
+2128;Na enkele dagen over
+2129;Na enkele dagen wordt het minder
+2130;Na enkele keren braken: groengeel vocht en slijm
+2131;Na enkele maanden normaal pigment terug
+2132;Na enkele seconden weer over
+2133;Na enkele uren blauwverkleuring oogleden
+2134;Na enkele weken herstel
+2135;Nagel, zwelling, pus en pijn
+2136;Nagelproblemen
+2137;Nagels lijken groter
+2138;Nagels met putjes
+2139;Nagels streperig
+2140;Nagels vallen uit
+2141;Nagels vlokkerig
+2142;Nagels worden lepelvormig
+2143;Na genezing verliest huid normale kleur
+2144;Na griepachtig en darmontsteking verlammingsverschijnselen m.n. arm, been
+2145;Najaarsmoeheid
+2146;Najaarsmoeheid neerslachtig gevoel in de herfst en winter
+2147;Na jaren achteruitgang leverfunctie
+2148;Na jaren blauwzucht
+2149;Na jaren in luidruchtig werk of disco
+2150;Na lange periode in de zon
+2151;Na lange tijd: hoofdpijn
+2152;Na lange tijd: lethargie
+2153;Na lange tijd: sufheid
+2154;Na lange tijd: toevallen
+2155;Na lange tijd: tremor beven
+2156;Na lange tijd: voortdurende verwardheid
+2157;Na neerleggen herstelt na enkele minuten
+2158;Na nuttigen gekruide gerechten
+2159;Na of tijdens infectie
+2160;Na ongeval direct pijn binnen in knie
+2161;Na openbarsten kan huid ontstoken raken
+2162;Na periode van grote inspanning
+2163;Napijn kan paar uur aanhouden
+2164;Na plotselinge beweging
+2165;Nasaal spreken
+2166;Na tijd kleine korstachtige plekjes in en op oor
+2167;Na tijd kleine korstachtige plekjes in keel
+2168;Na toediening beademingsbuis is er veelal heesheid
+2169;Na toediening beademingsbuis is er veelal keelpijn
+2170;Na uren ingespannen werk
+2171;Nauwelijks reagerend
+2172;Na val
+2173;Na val of zwaar tillen
+2174;Na verdwijnen blijven rode plekken
+2175;"Na verloop van tijd ""zakt neus omlaag"""
+2176;Na verwonding
+2177;Na verwonding bijv. val van grote hoogte
+2178;Na verwonding of ongeluk
+2179;Na week: niet-jeukende uitslag maag, borst, rug
+2180;Na week: roze vlekjes 'roosjesuitslag' op buik
+2181;Na week diarree
+2182;Na week verbetering
+2183;Na week weer terugval
+2184;Neemt af door plat te liggen
+2185;Neemt af door te ontspannen
+2186;Neemt af na stoppen activiteit
+2187;Neerslachtig gevoel in de herfst en winter
+2188;Neervallen
+2189;Negatieve seksuele ervaringen
+2190;Neiging tot overgewicht
+2191;Nekpijn bij beweging, stijfheid nek
+2192;Nekspieren aangespannen
+2193;Nekstijfheid hoofd kan niet naar voren gebogen
+2194;Nemen toe na blootstelling aan zon
+2195;Nerveus
+2196;Nervositeit
+2197;Nervositeit en rusteloosheid
+2198;Net onder de huid liggende bloedvatkluwen
+2199;Neurologische afwijkingen
+2200;Neuropathische pijn
+2201;Neusafscheiding of sputum soms bloedsporen
+2202;Neusbloeding epistaxis
+2203;Neusbloedingen
+2204;Neusbloedingen, bloedend tandvlees
+2205;Neusslijm kan geel of groen worden
+2206;Neus verstopt
+2207;Neus voelt warm aan
+2208;Nierbeschadiging
+2209;Nieren kunnen worden aangetast
+2210;Nierstenen soms pijnlijk
+2211;Niet-pijnlijke voortdurend uitvloeien helder vocht
+2212;Niet aanspreekbaar
+2213;Niet aanwezige testikels
+2214;Niet aanwezig testikels
+2215;Niet accepteren onderzoeksresultaten
+2216;Niet accepteren verklaringen
+2217;Niet altijd te zien op rÃ¶ntgen
+2218;Niet altijd van het oog zelf maar in de buurt
+2219;Niet echt pijnlijk
+2220;Niet gevoelige vergrote lymfklier
+2221;Niet gewoon aanspreekbaar
+2222;Niet ingedaalde testikels
+2223;Niet ingeent tegen mazelen
+2224;Niet ingegeven door aanstellerij
+2225;Niet kunnen genieten van dingen
+2226;Niet langer dan 1 of 2 dagen
+2227;Niet met plezier naar je werk gaan
+2228;Niet mogelijk been te strekken
+2229;Niet op bepaalde plaats
+2230;Niet op huid die bedekt is door kleding
+2231;Niet pijnlijk tenzij geïnfecteerd
+2232;Niet pijnlijke, vergrote lymfklieren
+2233;Niet pijnlijke scrotumknobbel soms afscheiding
+2234;Niet pijnlijke zwellingen aan schaamlippen
+2235;Niet stil kunnen zitten
+2236;Niet te verwarren met melanoom huidkanker
+2237;Niet te verwijderen
+2238;Niet verdragen hitte
+2239;Niezen
+2240;Niezen doet pijn buik
+2241;Niezen doet pijn in buik
+2242;Niezen straalt uit in benen
+2243;Nog wel suf
+2244;Normaal fenomeen minder traanvocht
+2245;Normaal groei tempo
+2246;Normale intelligentie
+2247;Normale romp
+2248;Nu en dan diarree
+2249;ontstekingspijn
+2250;1 of enkel deeltjes in gezichtsveld zwevend
+2251;1 oog
+2252;1 oog kan niet volledig gesloten worden
+2253;1 oog met felrode vlek
+2254;1 op 12 mannen en 1 op 200 vrouwen is erfelijk
+2255;1oog
+2256;O-benen
+2257;Obsessie
+2258;Obstakel is te zien en te voelen
+2259;Obstipatie
+2260;Obstipatie verstopping
+2261;Obstipatie met afwisselend diarree
+2262;Obstipatie of diarree
+2263;Obstipatie verstopping
+2264;Oedeem
+2265;Oedeem, gezwollen enkels
+2266;Oedeem aan het strottenhoofd
+2267;Oedeem in lichaamsdeel
+2268;Of: harde op stenen lijkende ontlasting
+2269;Of: plotseling veranderende stoelgang
+2270;Of: stoelgang met grote tussenpozen bijv. een week
+2271;Of bij bijv. zeer licht stoten klein trauma
+2272;Of in de ochtend
+2273;Of langzame hartritmes
+2274;Of van laag naar hoog
+2275;Ogen hebben normaal kracht
+2276;Ogen hebben vermoeid gevoel
+2277;Ogen knipperen
+2278;Ogen kunnen normaal bewegen
+2279;Ogen pijnlijk bij fel licht
+2280;Ogen puilen uit
+2281;Ogen staan niet evenwijdig
+2282;Ogen tranen reactie is juist teveel vocht
+2283;Ogen worden met de groei steeds iets slechter
+2284;Omringende huid kan rood worden
+2285;Onaangenaam gevoel
+2286;Onaangenaam ruikende urine
+2287;Onaangenaam ruikende vagina
+2288;Onaangenaam zoet ruikende/stinkende adem
+2289;Onaangenaam zoet ruikende adem
+2290;"Onaangename geur uit schede; soms visachtig"
+2291;Onaangename lichaamsgeur
+2292;Onafdoende vochtafvoer uit ventrikels in hersenen
+2293;Onbeheersbare vreetbuien
+2294;Onbeholpen
+2295;Onbeholpenheid
+2296;Onbeweeglijk, uitdrukkingsloos gezicht
+2297;Onbewogen maskergelaat
+2298;Onderbuik doet pijn bij druk en aanraken
+2299;Onderdeel van ALS
+2300;Onder de oogleden korrelige structuur
+2301;Ondergewicht
+2302;Onderhuidse bloedingen geen puntbloedingkjes
+2303;Onderhuidse punt bloedingen purpura
+2304;Onderscheid rood en groen is meestal probleem
+2305;Onderste ooglid hangt af
+2306;Ondertemperatuur hypothermie
+2307;Ondraaglijke pijn
+2308;Onduidelijke spraak
+2309;Onduidelijk spreken
+2310;Ongemak
+2311;Ongemak bij beweging
+2312;Ongemakkelijk
+2313;Ongenoegen over bestaanskwaliteit
+2314;Ongewenste haargroei
+2315;Ongewenste haargroei, acne , overgewicht
+2316;Ongewone pijn
+2317;Ongewone zwellingen
+2318;Ongewoon grote handen
+2319;Ongewoon grote voeten
+2320;Ongewoon hoog gehemelteboog
+2321;Ongewoon wit been
+2322;Ongewoon zwakke spieren
+2323;Onhandelbaar
+2324;Onhandig
+2325;Onhandigheid
+2326;Onjuist klaargemaakte voeding
+2327;Onmiddellijke zwelling
+2328;Onnatuurlijk verkrampte grijnzende uitdrukking gezicht
+2329;Onprettige tintelingen
+2330;Onredelijke woedeuitbarstingen
+2331;Onregelmatig bultje op lippen
+2332;Onregelmatige bloedingen
+2333;Onregelmatige hartslag
+2334;Onregelmatige menstruaties
+2335;Onregelmatige verdikking nagels
+2336;Onregelmatige zwakke ademhaling
+2337;Onregelmatig gekleurde tanden
+2338;Onschadelijk
+2339;Onschuldige zwelling in bijbal
+2340;Ontbrekende testikel
+2341;Ontbreken lichaamsbeharing
+2342;Ontbreken seksuele verlangens
+2343;Ontlasting lichtgekleurd
+2344;Ontremming
+2345;Ontstaan jichtknobbels
+2346;Ontstaat binnen enkele uren
+2347;Ontstaat in enkele dagen
+2348;Ontstaat op plek van verwonding
+2349;Ontsteking
+2350;Ontstekingen
+2351;Ontsteking in vagina
+2352;Ontsteking kan zich voordoen tot maand na geslachtsgemeenschap
+2353;Ontsteking oogwit
+2354;Ontsteking oorspeekselklier
+2355;Ontsteking van de huid
+2356;Ontstoken cyste zwelt op
+2357;Ontstoken gezwollen tong fambroos
+2358;Ontstoken gezwollen tong framboos
+2359;Ontstoken haarwortel verstopt kliertje Meibom
+2360;Ontstoken mond
+2361;Ontstoken of pijnlijke gewrichten
+2362;Ontstoken tandvlees
+2363;Ontstoken tong
+2364;Ontstoken vagina of eikel
+2365;Ontwikkeling cirrose
+2366;Onvaste tred
+2367;Onvastheid bij lopen
+2368;Onvermogen been te strekken
+2369;Onvermogen gewicht te dragen
+2370;Onvermogen stand gewrichten waar te nemen
+2371;Onvermogen te urineren
+2372;Onvermogen tot concentreren
+2373;Onvermogen tot urineren
+2374;Onvermogen trillingen te voelen
+2375;Onverschillig kan gepaard gaan met triest gelaat
+2376;Onverschillig voor rampzalige symptomen bv. Blind
+2377;Onverwacht gedrag
+2378;Onvoldoende licht
+2379;Onvoldoende opname voedingsstoffen malabsorptie
+2380;Onvolgroeidheid
+2381;Onvolledige stijfheid penis erectie
+2382;Onvruchtbaar
+2383;Onvruchtbaarheid
+2384;Onwelvoelen
+2385;Onwel voelen
+2386;Onzekere bewegingen
+2387;Onzekere gang, desoriëntatie
+2388;Onzekere tred
+2389;Onzekerheid bij lopen
+2390;Oogafscheiding
+2391;Oogbeweging is beperkt
+2392;Oogbol met gekleurde gele vlekken
+2393;Oogbol met gekleurde vlekken
+2394;Oogbolschokken nystagmus
+2395;Oog heeft leerachtig lijkend oppervlak
+2396;Oogirisonsteking iridocyclitis
+2397;Oogirritatie bij licht
+2398;Oog kan pijnlijk zijn
+2399;Oogklachten
+2400;Oogleden kleven aan elkaar bij ontwaken
+2401;Ooglens is troebel
+2402;Ooglid afhangend
+2403;Ooglid hangt omlaag
+2404;Ooglid is vaak rood
+2405;Ooglid krult naar buiten
+2406;Ooglid verdikking
+2407;Oogontsteking uveitis
+2408;Oogpijn matig tot heftig
+2409;Oog wijkt af naar buiten
+2410;Oogwit, iris en pupil normaal
+2411;Oogwit lijkt blauw
+2412;Ook andere spieren raken abnormaal snel vermoeid
+2413;Ook andere symptomen van kwaadaardige aandoening
+2414;Ook bij mensen met chronische bronchitis
+2415;Ook bij mensen met emfyseem
+2416;Ook bij vrouwen mogelijk
+2417;Ook in bed kan last geven
+2418;Ook verlies wenkbrauwen mogelijk
+2419;Ook wel trechtervormige ingedeukt borstbeen
+2420;Oor is rood
+2421;Oorpijn
+2422;Oorpijn bij baby of klein kind
+2423;Oorpijn en overgevoelig gehoor
+2424;Oorsuizen
+2425;Oorsuizen aan één kant
+2426;Oorzaak: alcohol
+2427;Oorzaak: dieseldampen
+2428;Oorzaak: koolmonoxidevergiftiging defecte c.v.
+2429;Oorzaak: middelen chemisch reinigen
+2430;Oorzaak: spina bifida
+2431;Oorzaak: suikerziekte
+2432;Oorzaak: syfilis
+2433;Oorzaak: teer
+2434;Op 1 bepaalde plaats
+2435;Op borst en buik
+2436;Op den duur: uitgezette borstkas tonvormig
+2437;Openbaart zich in puberteit
+2438;Openhangende mond
+2439;Opening in huid vlak bij anus
+2440;Operatie nodig anders verminderde vruchtbaarheid
+2441;Opgeblazen buik
+2442;Opgeblazen gevoel
+2443;Opgeblazen gevoel buik
+2444;Opgehoest slijm sputum ruikt vies
+2445;Opgeven van zuur
+2446;Opgewonden spreektrant
+2447;Opgezette buik door vocht ascites
+2448;Opgezette speekselklieren aan één kant
+2449;Opgezwollen bloedvaten van slaap
+2450;Opgezwollen ogen
+2451;Opgezwollen oog aan 1 kant
+2452;Opgezwollen speekselklieren
+2453;Op handen en voeten
+2454;Ophoesten met bloed gespikkeld slijm
+2455;Ophoping grote hoeveelheid darminhoud
+2456;Op iedere plek van het lichaam
+2457;Op latere leeftijd zwanger
+2458;Op lippen en in mond
+2459;Oplopende koorts
+2460;Op oudere leeftijd veel voorkomende aandoening
+2461;Oppervlakkige ademhaling
+2462;Oppervlakkig en zacht
+2463;Oprispen onverteerd voedsel
+2464;Oprispen voedsel tot in neus
+2465;Opvallende paarse plek
+2466;Opvliegers
+2467;Opzettelijk veroorzaakte huidontsteking
+2468;Op zichzelf teruggetrokken baby, slecht groeit, angstig en lusteloos is
+2469;Op zichzelf teruggetrokken kind
+2470;Oranje huid algemeen
+2471;Orgasmestoornis
+2472;Oudere vrouw
+2473;Oud lijkend uiterlijk
+2474;Oud lijkend uiterlijk pafferig
+2475;Oud lijkend wat pafferig uiterlijk
+2476;Overactiviteit
+2477;Overal haaruitval
+2478;Overal pijn
+2479;Overbeet
+2480;Overgeven van zuur
+2481;Overgevoeligheid kan plotseling ontstaan
+2482;Overgevoeligheid voor fel zonlicht
+2483;Overgevoeligheid voor licht
+2484;Overgevoelig voor fel licht
+2485;Overgevoelig voor geluid
+2486;Overgevoelig voor licht
+2487;Overgewicht
+2488;Over hele lichaam rode, gezwollen plekken
+2489;Overmatig alcohol- drugs- of medicijngebruik
+2490;Overmatige afscheiding
+2491;Overmatige beharing hirsutisme
+2492;Overmatige eetlust
+2493;Overmatige haaruitval
+2494;Overmatige menstruaties
+2495;Overvloed aan ideeën
+2496;Overvloedige haargroei gezicht en voorhoofd
+2497;Overvloedige haargroei in gezicht
+2498;Overvloedige haargroei op voorhoofd
+2499;Overvloedige vaginale afscheiding
+2500;Overvloedig speeksel
+2501;Overwerkt zijn
+2502;pijnlijke plek op neus, die steeds groter wordt
+2503;Pijnlijke zweertjes in mond
+2504;Paarse huid algemeen
+2505;Paarse lijntjes striae op buik, rug en dijbenen
+2506;Paarsrode bloeduitstortingen
+2507;Pafferig gezicht
+2508;Pafferig gezicht vooral rond ogen
+2509;Paniek
+2510;Pasgeborenen koude ledematen
+2511;Pasgeborenen lusteloos
+2512;Passief gedrag
+2513;Patiënt 5-10 jaar oud, heel soms jonger of ouder
+2514;Patiënt blijft verkramd kan kaakklem ontstaan
+2515;Patiënt onderkent probleem
+2516;Patiënt voelt zich onwel
+2517;Patiënt ziet er slecht uit
+2518;Penetratie onmogelijk of pijnlijk
+2519;Penis, geen stijve penis kunnen krijgen
+2520;Penis afscheiding
+2521;Penis kan abnormaal van vorm zijn
+2522;Perioden met abrupte versnelling hartslag
+2523;Perioden van bewusteloosheid
+2524;Perioden van blauwzucht cyanose
+2525;Perioden van slaperigheid
+2526;Perkamentachtig
+2527;Permanente blos op wangen
+2528;Persoonlijkheid is normaal
+2529;Persoonlijkheidsverandering
+2530;Persoonlijkheidsveranderingen
+2531;Persoon niet of moeilijk wakker te krijgen
+2532;Persoon verder gezond
+2533;Pessimisme
+2534;Piekeren tijdens het werk
+2535;Piepen
+2536;Piepen, vooral bij uitademen, hoesten
+2537;Piepende ademhaling
+2538;Piepen steeds erger door jaren heen
+2539;Pigmentatie
+2540;Pigmentatie, littekens blaren
+2541;Pigmentatie is blijvend
+2542;Pigmentosa genoemd vanwege donker pigment netvlies
+2543;Pigmentvlekken op huid
+2544;Pijn
+2545;Pijn 's nachts erger
+2546;Pijn steken moedervlek
+2547;Pijn, gevoeligheid rechtsonder in buik
+2548;Pijn, pakt naar bijv. oor als dit pijn doet
+2549;Pijn, roodheid en blaarvorming groot deel huid
+2550;Pijn, roodheid schaamlippen en vulva
+2551;Pijn, verergert door voedsel en alcohol
+2552;Pijn/branderig gevoel bij het plassen
+2553;Pijn 1 of beide ogen
+2554;Pijn aan basis aan achterkant duim
+2555;Pijn aan binnenkant arm bij/na tillen
+2556;Pijn aan borst vrouw
+2557;Pijn aan de tanden
+2558;Pijn aan de voor en/of achterkant van de bekken rond het schaambeen
+2559;Pijn aan een zijde oor zijde keelpijn
+2560;Pijn aan een zijde van keel
+2561;Pijn aan rug en spierpijn
+2562;Pijn aan schouderpunt
+2563;Pijnaanval kan samen gaan met zwelling door vocht
+2564;Pijnaanval om de paar minuten
+2565;Pijn aan voorkant dijbeen
+2566;Pijn aan één kant in nierstreek
+2567;Pijn achter sleutelbeen
+2568;Pijn als doorbloeding weer op gang komt
+2569;Pijn begint aan punt schouder
+2570;Pijn begint aan één kant
+2571;Pijn begint in onderrug of billen
+2572;Pijn begint in rusttoestand
+2573;Pijn begint vaak boven navel en zakt dan naar rechtsonder
+2574;Pijn bij aanraking bijv. kleding op huid
+2575;Pijn bij bewegen
+2576;Pijn bij bewegen arm
+2577;Pijn bij bewegen voet en grote teen
+2578;Pijn bij beweging
+2579;Pijn bij beweging lage rug
+2580;Pijn bij de onderste ribben
+2581;Pijn bij doorkomende tanden
+2582;Pijn bij druk op het oog
+2583;Pijn bij erectie
+2584;Pijn bij geslachtsverkeer
+2585;Pijn bij het lopen
+2586;Pijn bij het oor
+2587;Pijn bij het plassen
+2588;Pijn bij het vrijen
+2589;Pijn bij lopen
+2590;Pijn bij oren
+2591;Pijn bij poging tot geslachtsverkeer
+2592;Pijn bij slikken
+2593;Pijn bij urineren
+2594;Pijn bij warmte of kou bijv. bij douchen
+2595;Pijn binnen enkele uren
+2596;Pijn blijft langdurig aanwezig
+2597;Pijn boven in buikholte
+2598;Pijn boven in rug
+2599;Pijn bovenste deel buikholte
+2600;Pijn die bij staan heviger is dan bij lopen of rennen
+2601;Pijn door gezwollen blaas
+2602;Pijn door slokdarmontsteking
+2603;Pijn duurt slechts enkele seconden
+2604;Pijn duurt verscheidene uren
+2605;Pijn en druk gevoel
+2606;Pijn en drukgevoel neus
+2607;Pijn en drukgevoel oog
+2608;Pijn en gevoelig onder ribben rechterkant
+2609;Pijn en roodheid aan binnenkant ooglid
+2610;Pijn en uitstraling in armen handen en vingers
+2611;Pijn en ziektegevoel
+2612;Pijn en zwelling mondbodem bij zuur eten
+2613;Pijn en zwelling neusbrug
+2614;Pijn erger bij druk op blindedarm
+2615;Pijn erger bij inademen
+2616;Pijn erger bij inspanning
+2617;Pijn erger bij ontwaken
+2618;Pijn erger bij plaatselijke druk
+2619;Pijn erger bij zitten
+2620;Pijn erger na stoelgang
+2621;Pijn ergst op deel schouderboog
+2622;Pijn heviger bij kauwen
+2623;Pijn heviger bij liggend been opheffen
+2624;Pijn heviger bij vooroverbuigen
+2625;Pijn hevig stekend in gezicht duurt slechts enkele seconden
+2626;Pijn houdt aan of verergert na urineren
+2627;Pijn in been van lies naar knie, stijfheid been
+2628;Pijn in borst bij stress
+2629;Pijn in borst na het eten
+2630;Pijn in borstvlies bij ademen
+2631;Pijn in botten
+2632;Pijn in bovenbuik, misselijk braken
+2633;Pijn in buikholte
+2634;Pijn in de onderbuik
+2635;Pijn in de benen
+2636;Pijn in de blaasstreek
+2637;Pijn in de borst
+2638;Pijn in de bovenbuik
+2639;Pijn in de buik
+2640;Pijn in de gewrichten
+2641;Pijn in de lendenen
+2642;Pijn in de onderbuik
+2643;Pijn in de onderrug
+2644;Pijn in de rug
+2645;Pijn in dijen
+2646;Pijn in diverse lichaamsdelen
+2647;Pijn in een kies of tand
+2648;Pijn in en rond de ogen
+2649;Pijn in gebied knobbeltje
+2650;Pijn in gewricht
+2651;Pijn in gewrichten, vooral grote teen
+2652;Pijn in gezicht
+2653;Pijn in handen, armen, schouders, nek en bovenrug
+2654;Pijn in handen, armen schouders nek en bovenrug
+2655;Pijn in het bekken
+2656;Pijn in het oor
+2657;Pijn in keel is erger bij slikken
+2658;Pijn in kuit of voet
+2659;Pijn in ledematen
+2660;Pijn in lendenen
+2661;Pijn in lies
+2662;Pijn in lies of heup na val
+2663;Pijn in liezen
+2664;Pijn in nek
+2665;Pijn in nek en rug
+2666;Pijn in neuspunt
+2667;Pijn in ogen en nek
+2668;Pijn in onderbuik
+2669;Pijn in onderrug of bekken
+2670;Pijn in pols
+2671;Pijn in rectale gebied achter balzak
+2672;Pijn in rug, liezen, middenonderbuik
+2673;Pijn in schouder bij aanraking
+2674;Pijn in schouders, heupen
+2675;Pijn in schouders en rug
+2676;Pijn in spieren en gewrichten
+2677;Pijn in spieren rond schouder en nek
+2678;Pijn in testikels
+2679;Pijn in vagina
+2680;Pijn in voeten of benen na langdurig staan
+2681;Pijn in wervelkolom
+2682;Pijn is gemeen, drukkend, snoerend
+2683;Pijn is hevig stekend
+2684;Pijn is niet diep in vagina
+2685;Pijn is oppervlakkig
+2686;Pijn is plaatselijk
+2687;Pijn kan ook in hele buik zijn
+2688;Pijn kan op andere plaats zitten dan oorzaak
+2689;Pijn kan soms weken duren
+2690;Pijn kan uitstralen naar rug
+2691;Pijn kan uitstralen naar schouder
+2692;Pijn kan uitstralen tot top penis
+2693;Pijn kan verergeren bij inademen
+2694;Pijn kan wekenlang duren
+2695;Pijn kan zich uitbreiden
+2696;Pijn keert steeds terug
+2697;Pijn keert terug
+2698;Pijnklachten
+2699;Pijn komt in enkele minuten opzetten
+2700;Pijn komt steeds terug
+2701;Pijn komt terug indien weer actief
+2702;Pijn laag in de rug
+2703;Pijnlijk
+2704;Pijnlijk
+2705;Pijnlijk bij aanraken
+2706;Pijnlijke, gezwollen lymfklieren in lies
+2707;Pijnlijke, rode en jeukende vagina
+2708;Pijnlijke, soms gezwollen, botten, schouder, pols
+2709;Pijnlijke ademhaling
+2710;Pijnlijke borsten
+2711;Pijnlijke botten
+2712;Pijnlijke bultjes voeten
+2713;Pijnlijke elleboog
+2714;Pijnlijke en zwakke enkel
+2715;Pijnlijke geslachtsgemeenschap
+2716;Pijnlijke gewrichten
+2717;Pijnlijke gladde tong
+2718;Pijnlijke heup
+2719;Pijnlijke huid
+2720;Pijnlijke keel, rillerig, lichte hoofdpijn, spierpijn
+2721;Pijnlijke kloofjes aan mondhoeken
+2722;Pijnlijke knieën
+2723;Pijnlijke ledematen
+2724;Pijnlijke menstruatie
+2725;Pijnlijke menstruaties
+2726;Pijnlijke mond, kloofjes
+2727;Pijnlijke penis
+2728;Pijnlijke penis bij erectie
+2729;Pijnlijke plek op lippen
+2730;Pijnlijke pols
+2731;Pijnlijke schouder
+2732;Pijnlijke soms gezwollen pols
+2733;Pijnlijke spieren
+2734;Pijnlijke spierkrampen
+2735;Pijnlijke tand of kies
+2736;Pijnlijke uitslag rond de lippen
+2737;Pijnlijke voeten
+2738;Pijnlijke zwelling
+2739;Pijnlijke zwelling onder of boven kaak
+2740;Pijnlijk gevoel op de huid
+2741;Pijnlijk gevoel rond anus en penis
+2742;Pijnlijk tandvlees, losse tanden
+2743;Pijn lijkt uit te stralen naar schouders
+2744;Pijnlijk uitpuilende ogen
+2745;Pijnlijk uitpuilend oog
+2746;Pijn links van de buik
+2747;Pijnloos
+2748;Pijn meestal aan zijkant van borst
+2749;Pijn midden boven in buikholte
+2750;Pijn midden in buik of op borst
+2751;Pijn naar je rug geschoten tijdens iets optillen
+2752;Pijn neemt af bij stilstaan
+2753;Pijn of branderig gevoel bij het plassen
+2754;Pijn of drukgevoel in voorhoofd achter ogen
+2755;Pijn onder de hiel
+2756;Pijn onder in de rug
+2757;Pijn op de borst
+2758;Pijn op de borst aanhoudend of terugkerend
+2759;Pijn op plaats breuk
+2760;Pijn rechtsboven in buikholte
+2761;Pijn rechts in bovenbuik
+2762;Pijn rechtsonder in buik
+2763;Pijn rond anus of in endeldarm
+2764;Pijn rond de ontstoken bijholte
+2765;Pijn rond de oogbol
+2766;Pijn rond schede ingang
+2767;Pijnscheut bij hoest, niezen of persen
+2768;Pijnscheuten in de onderbuik
+2769;Pijnscheuten in ledematen
+2770;Pijnscheuten voorkant knie
+2771;Pijnscheut wordt opgewekt door prikkels
+2772;Pijn soms maar op één plek
+2773;Pijn straalt niet uit naar kaak of arm
+2774;Pijn straalt uit onderrug en billen
+2775;Pijn straalt uit tot top penis
+2776;Pijn straalt uit van achterzijde bovenbeen naar kuit en voet
+2777;Pijn straalt uit van onderrug
+2778;Pijn tijdens het traplopen
+2779;Pijn tijdens het omdraaien in bed
+2780;Pijn trekt via arm naar hand
+2781;Pijn tussen benen
+2782;Pijn tussen de benen
+2783;Pijn verdwijnt
+2784;Pijn verergert bij bepaalde bewegingen
+2785;Pijn verergert bij beweging
+2786;Pijn verergert bij bewegingen
+2787;Pijn verergert bij inspanning
+2788;Pijn verergert door druk op borstbeen
+2789;Pijn verergert door druk tussen ribben
+2790;Pijn vlak achter borstbeen
+2791;Pijn vlak bij oor
+2792;Pijn vulva
+2793;Pijn wanneer je bukt, opstaat of omdraait
+2794;Pijn weerhoudt ervan naar toilet te gaan
+2795;Pijn wordt erger
+2796;Pijn zit aan buitenkant knie
+2797;Pijn zit boven in buikholte
+2798;Pijn zit hoog in borst
+2799;Pilgebruik
+2800;Pisbuis mondt uit aan onderkant penis hypospadie
+2801;Pisbuisontsteking
+2802;Pisbuisontsteking urethritis
+2803;Plaatselijk blauwe geaderde huid
+2804;Plaatselijk blauwe huid
+2805;Plaatselijk bleke huid
+2806;Plaatselijk bloeduitstorting
+2807;Plaatselijk bruine huid
+2808;Plaatselijke pijn
+2809;Plaatselijke pijn in het lichaam
+2810;Plaatselijke roodheid
+2811;Plaatselijke vergroting lymfklieren
+2812;Plaatselijke witheid huid
+2813;Plaatselijke zwelling
+2814;Plaatselijk gele huidplekken
+2815;Plaatselijk gevoelig bovenaan scheenbeen
+2816;Plaatselijk gevoelige zwelling
+2817;Plaatselijk gevoeligheid van de voetzool
+2818;Plaatselijk gevoelig onder hiel
+2819;Plaatselijk kloppende pijn
+2820;Plaatselijk pijn
+2821;Plaatselijk pijn aan binnenste elleboogsknobbel
+2822;Plaatselijk pijn aan buitenkant elleboogsknobbel
+2823;Plaatselijk pijn aan elleboogspunt
+2824;Plaatselijk pijn in vingers/tenen
+2825;Plaatselijk pijnlijke zwelling
+2826;Plaatselijk pukkeltjes
+2827;Plaatselijk rode huid
+2828;Plaatselijk rode huid rond tepel
+2829;Plaatselijk roodachtige/paarse huid
+2830;Plaatselijk roodheid
+2831;Plaatselijk roze huid
+2832;Plaatselijk witheid van de huid
+2833;Plaatselijk zwarte huid
+2834;Plaats lastig aan te geven
+2835;Plaats wond is duidelijk
+2836;Plassen is pijnlijk
+2837;Platte neus
+2838;Platte vingernagels
+2839;Plek gaat zweren
+2840;Plek kan bloeden of zweren
+2841;Plekken gaan schilferen
+2842;Plekken vernaderen van rood naar paars en zwart
+2843;Plek wordt groter
+2844;Plompe handen
+2845;Plotseling
+2846;Plotseling afhangend gezicht aan 1 kant
+2847;Plotseling bewustzijnsverlies collapsshock, coma
+2848;Plotseling bijv. in gezelschap in slaap vallen
+2849;Plotseling decorumverlies onaangepast gedrag
+2850;Plotseling drukgevoel in de borst
+2851;Plotselinge achteruitgang intellect
+2852;Plotselinge angst
+2853;Plotselinge felle pijn in 1 testikel
+2854;Plotselinge hevige pijn bij oren, neus, in gezicht
+2855;Plotselinge hoestaanval
+2856;Plotselinge hoge koorts
+2857;Plotselinge irritatie oog
+2858;Plotselinge koorts
+2859;Plotselinge kortademigheid
+2860;Plotselinge messcherpe pijn in de borst
+2861;Plotselinge nekpijn
+2862;Plotselinge onherstelbare doofheid
+2863;Plotselinge pijn
+2864;Plotselinge pijn op de borst
+2865;Plotseling ernstige pijn
+2866;Plotselinge slapte
+2867;Plotselinge toevallen bij volwassenen
+2868;Plotselinge verandering van het gezichtsvermogen
+2869;Plotselinge verlamming paralyse
+2870;Plotselinge verlamming been/arm
+2871;Plotseling gezichtsverlies
+2872;Plotseling hoesten
+2873;Plotseling hoge koorts
+2874;Plotseling krampende pijn
+2875;Plotseling onwillekeurige scheldwoorden, vloeken
+2876;Plotseling opkomende aandrang
+2877;Plotseling opkomende hevige pijn
+2878;Plotseling opkomende koorts
+2879;Plotseling opkomende kortademigheid
+2880;Plotseling opkomende kortademigheid
+2881;Plotseling opkomende pijn
+2882;Plotseling opkomende pijn aan schouderpunt
+2883;Plotseling opkomende slapte
+2884;Plotseling opkomende spierkramp
+2885;Plotseling opkomende ziekte met koorts
+2886;Plotseling opkomende zwelling vanaf plaats beet
+2887;Plotseling opkomend gevoel van duizeligheid
+2888;Plotseling opkomend gevoel van onwelzijn
+2889;Plotseling optreden
+2890;Plotseling optredende pijn gedurende minstens uur
+2891;Plotseling optredende verlamming
+2892;Plotseling optreden grote blaren
+2893;Plotseling pijn in bot met zwelling
+2894;Plotseling pijn in het gezichtprikkels: eten, kou, aanraking huid gezicht
+2895;Plotseling pijnlijke elleboog
+2896;Plotseling pijnloos verlies van gezichtsvermogen
+2897;Plotseling scheelzien
+2898;Plotseling totale blindheid
+2899;Plotseling verlamming of spierzwakte armen of benen
+2900;Plotseling verlies controle blaas
+2901;Plotseling verlies gezichtsvermogen 1 oog
+2902;Plotseling verschijnt niet-pijnlijk bultje
+2903;Plotseling wazig zien
+2904;Plotseling wit worden been of arm
+2905;Polsslag, ademhaling trager
+2906;Pols varieert van erg langzaam tot erg snel
+2907;Poriën verstopt, meeëters
+2908;Premenstrueel syndroom PMS
+2909;Prikkelbaar
+2910;Prikkelbaar bij aanraking of verplaatsing
+2911;Prikkelbaarheid
+2912;Prikkelende huid
+2913;Prikkels: eten, kou, aanraking huid gezicht
+2914;Primaire kanker kan ongewone bloedingen geven
+2915;Proberen naar adem te happen
+2916;Problemen bij urineren
+2917;Problemen met dragen van contactlenzen
+2918;Problemen met nagels tenen
+2919;Problemen met nagels vingers
+2920;Problemen met praten
+2921;Problemen met slikken
+2922;Problemen met slikken en heesheid
+2923;Problemen met slikken en koorts
+2924;Problemen met slikken en oprispen of braken
+2925;Problemen met slikken en pijn
+2926;Problemen met slikken en projectiel braken baby
+2927;Problemen met tandprothesen
+2928;Problemen met urineren
+2929;Problemen met zwanger worden
+2930;Projectielbraken in golven
+2931;Puilen van buik
+2932;Punt grote teen wijst naar buitenzijde voet
+2933;Puntjes aan je schaamharen
+2934;Pupil is meestal groter
+2935;Pupil kan niet reageren op licht
+2936;Pupil klein
+2937;Pupillen reageren levendig op licht en donker
+2938;Pupil onregelmatig
+2939;Pupil van aangetaste oog is wijder
+2940;Pupil vergroot
+2941;Pusvorming
+2942;Pusvorming, puistjes met wit/gele koppen
+2943;Putjes in nagels
+2944;Raakt soms geïrriteerd
+2945;Randen tandvlees wijken terug
+2946;Raspend gevoel achter borstbeen
+2947;Rauw gevoel in keel
+2948;Rauw gevoel zit boven in borstkas
+2949;Rauw gevoel zit lager in hals
+2950;Reactie op emoties verlegenheid
+2951;Reactie op hitte
+2952;Reactie op hitte of kou
+2953;Reactie op inspanning
+2954;Rechtsonder kan verwarren met blindedarmontsteking
+2955;Rectumprolaps darm stulpt uit anus naar buiten
+2956;Regelmatige snelle hartslag
+2957;Regenboogvliesontsteking iritis
+2958;Rekken pijnlijker
+2959;Rekking van spier geeft verlichting
+2960;Relatief jonge leeftijd niet bejaard
+2961;Relatief weinig lichaamsbeweging
+2962;Reukverlies
+2963;Reukverlies anosmie
+2964;Reumatische aandoening auto immuunziekten
+2965;Reutelen is op borstkas te voelen
+2966;Rillen
+2967;Rillingen
+2968;Rillingen met koorts en hoofdpijn
+2969;Rimpels
+2970;Ringvormige, kale plekken
+2971;Risico: uitdroging vooral bij baby's!
+2972;Risico verslikken
+2973;Ritmewisselingen: verschil van ca. 10 slagen p/min
+2974;Rochelende, snurkende ademhaling
+2975;Rochelende, snurkende ademhaling tijdens slaap
+2976;Rode, geirriteerde huid rond de schaamstreek
+2977;Rode, gezwollen en pijnlijke schaamlippen
+2978;Rode adertjes in huid spinnetjes
+2979;Rode branderige ogen
+2980;Rode bultjes vormen blaasjes
+2981;Rode gelaatskleur
+2982;Rode handpalmen
+2983;Rode huid
+2984;Rode huid, vlekken
+2985;Rode huid op de billetjes
+2986;Rode huidplekken
+2987;Rode jeukende uitslag op gehele lichaam
+2988;Rode neus
+2989;Rode of bruine plekjes in ondergoed
+2990;Rode ogen
+2991;Rode oogen en tranen
+2992;Rode pijnlijke plekken tussen tenen
+2993;Rode pijnlijke zwelling op de huid steenpuist
+2994;Rode plek achter het oor
+2995;Rode plekken op aangetaste huid
+2996;Rode plek op de huid
+2997;Rode puistjes op de huid
+2998;Rodestrepen op huid van plaats wond naar lies of oksel
+2999;Rode striem loopt van plaats verwonding naar okselholte
+3000;Rode uitslag
+3001;Rode uitslag in fijne puntjes op lichaam
+3002;Rode verkleuring
+3003;Rode verkleuring en zwelling zachte weefsels
+3004;Rode verkleuring gezicht
+3005;Rode vlek met vanuit centrum dunne bloedvaatjes
+3006;Rode vlek op top penis of voorhuid
+3007;Rode zwelling borst v. vrouw
+3008;Rode zwelling in vagina
+3009;Rode zwelling in vagina die kan worden teruggeduwd
+3010;Rode zwelling in vagina die verergert bij niezen en persen en vermindert bij plat liggen
+3011;Roken tijdens zwangerschap
+3012;Rokershoestje
+3013;Rolt met ogen
+3014;Rond mond pijnlijke uitslag
+3015;Rood
+3016;Rood-bruine verkleuring
+3017;Rood- of violetkleurig plekje onder nagel
+3018;Roodbruine onregelmatige verkleuring
+3019;Rood gezicht
+3020;Rood gezicht voor en na aanval
+3021;Roodheid
+3022;Roodheid, soms koorts
+3023;Roodheid als doorbloeding weer op gang komt
+3024;Roodheid door uitgezette bloedvaten in de oppervlakte
+3025;Roodheid hevigst direct rond iris
+3026;Roodheid hevigst rondom hoornvlies
+3027;Roodheid in een te onderscheiden deel oogwit
+3028;Roodheid in gezicht, neus
+3029;Roodheid is het hevigst aan het buitenkant oogbol
+3030;Roodheid rondom de iris
+3031;Roodheid tranen
+3032;Roodheid van mastoid
+3033;Roodheid vulva
+3034;Roodkleuring handpalmen
+3035;Rood maantje lunula op nagels
+3036;Rood oog
+3037;Rood oog niet pijnlijk
+3038;Rood oog pijnlijk
+3039;Rood oog vooral rond iris
+3040;Rood op neus, voorhoofd, wangen en kin
+3041;Roodpaars gekleurd 'drankneus'
+3042;Roodverkleuring huid
+3043;Roze zwellingen 'over de ribben'
+3044;Rug niet kunnen bewegen
+3045;Rug wordt krommer, kyfose
+3046;Ruisend geluid in hoofd te horen
+3047;Rusteloos
+3048;Rusteloosheid
+3049;Rusteloosheid, verwardheid kan overgaan in coma
+3050;Rusteloosheid en spierkrampen
+3051;Rust helpt
+3052;Ruwe droge huid
+3053;Ruwe huid
+3054;Ruwe huid van de tepels
+3055;'s nachts erger
+3056;'s nachts grote hoeveelheden urine uitscheiden
+3057;'s nachts vaak erger
+3058;'s nachts wakker worden met gevoel te stikken
+3059;Samengaand met neusbijholteontsteking
+3060;Samengegroeide schaamlippen
+3061;Sarcoom van Kaposi
+3062;Schede-ingang kan te smal zijn
+3063;Schede is pijnlijk
+3064;Schedel lijkt groot,
+3065;Schedelvervorming
+3066;Schede voelt droog aan, ook bij sexuele opwinding
+3067;Scheelzien
+3068;Scherp begrensde paarse vlekken
+3069;Scherp branderig gevoel na maaltijden
+3070;Scherpe pijn in de borst
+3071;Scheurtjes in de tepels
+3072;Scheve neus
+3073;Schietende pijn/ Prikkende pijn
+3074;Schilferige huid
+3075;Schilferige huid als schubben
+3076;Schilfering onbedekte huid gezicht, handen enz.
+3077;Schilfering van de huid
+3078;Schimmel in de mond
+3079;Schimmelinfectie Candida
+3080;Schouder ziet er anders uit
+3081;Schuifelende gang bij het lopen
+3082;Schuifelende gang bij lopen
+3083;Schuimachtige speekselvloed
+3084;Schuimbekken
+3085;Schuimend speeksel, soms wat bloederig
+3086;Schuimige rood sputum of bloed ophoesten
+3087;Schuine stand van het hoofd
+3088;Schuldgevoelens
+3089;Schuldgevoelens over seksbeleving
+3090;Schurftig uitziende huid
+3091;Sexuele lust is vergroot
+3092;Shock
+3093;Shock met bloeddrukdaling, klamzweet, bewusteloos
+3094;Shockverschijnselen
+3095;Slaapstoornissen
+3096;Slaat vaak over op lagere luchtwegen
+3097;Slagader bij aanraking pijnlijk
+3098;Slagader is verdikt
+3099;Slapeloosheid
+3100;Slapeloosheid insomnia
+3101;Slapeloosheid door pijn
+3102;Slapeloosheid vanwege pijn
+3103;Slapend gevoel
+3104;Slaperigheid
+3105;Slaperigheid of verwarring
+3106;Slappe benen
+3107;Slappe gewrichten
+3108;Slappe gewrichtsbanden
+3109;Slappe huid
+3110;Slappe ledematen
+3111;Slappe straal, moeite met beginnen en stoppen
+3112;Slappe te ruime huid
+3113;Slappe urinestraal
+3114;Slapte
+3115;Slapte in armen
+3116;Slapte in arm of been
+3117;Slapte in benen
+3118;Slapte in ledematen
+3119;Slecht aankomen in gewicht baby
+3120;Slecht drinkende baby
+3121;Slechte adem
+3122;Slechte adem halitose
+3123;Slechte adem en hoesten
+3124;Slechte adem mondgeur halitose
+3125;Slechte conditie
+3126;Slechte doorbloeding slagaderen richting oren
+3127;Slechte gezondheid, vermoeidheid, sufheid
+3128;Slechte ontwikkeling gehoororgaan
+3129;Slechter zien tijdens schemer en nacht
+3130;Slecht eten
+3131;Slecht geheugen
+3132;Slecht groeien
+3133;Slechthorendheid
+3134;Slechthorendheid en doofheid bij volwassenen
+3135;Slecht kunnen concentreren
+3136;Slecht luisteren
+3137;Slecht passende prothese
+3138;Slechts 1 oog aangedaan
+3139;Slechts 1 oog is aangedaan
+3140;Slechts aan 1 oog
+3141;Slecht slapen
+3142;Slechtziend
+3143;Slijm bevat vaak bloed
+3144;Slijm groen of geel
+3145;Slijm in de ontlasting
+3146;Slijm in keel
+3147;Slijm in neusholte
+3148;Slijm is taai
+3149;Slijm loopt via neusholte in keelholte
+3150;Slijm roestkleurig of met bloed
+3151;Slikken doet pijn
+3152;Slikken kan bemoeilijkt zijn
+3153;Slikklachten
+3154;Slikproblemen
+3155;Slikproblemen, verhoogde speekselvloed
+3156;Slikproblemen met oprispen
+3157;Slinken van spieren
+3158;Smaak aan één zijde tong aangetast
+3159;Smaakverlies tong aangedane zijde
+3160;Snel 'vol' gevoel na kleine maaltijd
+3161;Snel belangstellingsverlies
+3162;Snel blauwe plekken
+3163;Snel emotioneel en labiel
+3164;Snel knipperen met het oog
+3165;Snelle 'springerige' pols
+3166;Snelle achteruitgang gezichtsvermogen aan 1 oog
+3167;Snelle ademhaling
+3168;Snelle gewichtstoename vocht tijdens laatste deel zwangerschap
+3169;Snelle gewichtstoename in enkele dagen
+3170;Snelle hartslag
+3171;Snelle hartslag of pols, oppervlakkig
+3172;Snelle of onregelmatige hartslag
+3173;Snelle onregelmatige hartslag
+3174;Snelle pols
+3175;Snelle pols soms onregelmatig
+3176;Snelle polsslag
+3177;Snelle regelmatige hartslag tachycardie
+3178;Sneller moe
+3179;Snelle verdwijning symptomen als druk verdwenen is
+3180;Snelle zwelling gezicht en benauwdheid
+3181;Snel littekenvorming
+3182;Snel luchtweginfecties
+3183;Snel ontstaan als een bloedziekte aanwezig
+3184;Snel piepende, hijgende ademhaling
+3185;Snel toenemende ademnood
+3186;Snel van streek raken
+3187;Snuffen
+3188;Snurken
+3189;Snurkend, zware ademhalen vooral bij diep coma
+3190;Sociale angst
+3191;Somberheid kan gepaard gaan met snel in tranen zijn
+3192;Somberheid, extreme teleurstelling delusie
+3193;Sommige plekken zijn verdoofd
+3194;Soms: geelzucht
+3195;Soms: gezwollen enkels
+3196;Soms: ontwikkeling suikerziekte
+3197;Soms: uitbraken bloed
+3198;Soms: zwarte ontlasting
+3199;Soms abces of etterbuil
+3200;Soms achterblijven van urine retentie
+3201;Soms ademnood
+3202;Soms ademnood mogelijk
+3203;Soms al eerder oogproblemen
+3204;Soms andere aangeboren afwijkingen
+3205;Soms bewusteloosheid
+3206;Soms bewustzijnsverlies
+3207;Soms bij aanvallen
+3208;Soms bijkomend: alvleesklierontsteking
+3209;Soms bijkomend: teelbalontsteking
+3210;Soms bijkomend gezichtsstoornissen dubbelzien
+3211;Soms bij onbewust verkeerd gebruik van de stem
+3212;Soms bij psychische problemen
+3213;Soms blaasjes met vocht
+3214;Soms blauwzucht cyanose
+3215;Soms blijven aambeien uit anus steken
+3216;Soms blijvend
+3217;Soms bloedbraken
+3218;Soms bloedingen
+3219;Soms bloed in urine
+3220;Soms boezemfibrilleren
+3221;Soms bonken of fladderen in de borst
+3222;Soms botpijn
+3223;Soms braken
+3224;Soms brandend maagzuur
+3225;Soms broze botten
+3226;Soms bult
+3227;Soms bult op rug
+3228;Soms darmafsluiting door vernauwing darm
+3229;Soms deel gezicht of deel handen of andere lichaamsdelen pigmentloos
+3230;Soms diarree
+3231;Soms diarree, dun, licht en veel
+3232;Soms diarree nadat eerder de ontlasting uitbleef
+3233;Soms dikkere hardere plek
+3234;Soms direct na de geboorte zichtbaar
+3235;Soms donker tot helderrood bloed in ontlasting
+3236;Soms doofheid
+3237;Soms doofheid aan 1 kant, dubbelzien
+3238;Soms enkele jaren na geboorte
+3239;Soms erger bij buigen en strekken been
+3240;Soms extra slagen extrasystolie
+3241;Soms flauwvallen
+3242;Soms gebrek aan vitamine B-2 riboflavine
+3243;Soms gedraaide testikels
+3244;Soms geen enkel kleuronderscheid
+3245;Soms geen symptomen, wel te zien op ECG
+3246;Soms gele huidplekken
+3247;Soms gevoelig bobbeltje handpalm bij vingerbasis
+3248;Soms gevoel lichamelijk onwel zijn
+3249;Soms gevolg beschadigd kaakbeen
+3250;Soms gevolg extra tand of kies
+3251;Soms gevolg infectie
+3252;Soms gewrichtsontsteking
+3253;Soms gewrichtspijn
+3254;Soms gezwel te zien in neus of keel
+3255;Soms gezwollen lymfklieren
+3256;Soms gezwollen testikels of scrotum
+3257;Soms groeit er haar op
+3258;Soms haaruitval
+3259;Soms heldere, geelachtige afscheiding
+3260;Soms helderrood bloed in toiletpot
+3261;Soms helderrood bloed op wcpapier
+3262;Soms helemaal geen symptomen
+3263;Soms helft of meer van het oogwit
+3264;Soms hevige afscheiding
+3265;Soms hoesten
+3266;Soms hol- of platvoet
+3267;Soms holvoet
+3268;Soms in combinatie met snurken
+3269;Soms ischias
+3270;Soms is een zwelling voelbaar
+3271;Soms is er verwonding aan hart bijv. steekwond
+3272;Soms jeuk
+3273;Soms jeuk zonder huiduitslag
+3274;Soms kan patiënt een schreeuw geven
+3275;Soms kleurenblindheid
+3276;Soms kloofjes
+3277;Soms knie op slot
+3278;Soms kokhalzen
+3279;Soms komt knie vast te zitten in gebogen houding
+3280;Soms koorts
+3281;Soms koortsstuip
+3282;Soms kop bovenarmbeen te voelen
+3283;Soms korstvorming en vochtafscheiding
+3284;Soms kortademigheid
+3285;Soms kort blindheid aan 1 kant
+3286;Soms koude blauwe vingers en tintelingen
+3287;Soms langdurige slokdarmwandontsteking
+3288;Soms lekken van urine
+3289;Soms levensbedreigend door groot bloedverlies
+3290;Soms luchtweginfectie met koorts door oprispen
+3291;Soms luchtweginfecties met koorts
+3292;Soms manisch
+3293;Soms mank lopen
+3294;Soms meerdere malen terugkerend
+3295;Soms met zweertjes
+3296;Soms misvormde tanden
+3297;Soms moeder had tijdens zwangerschap rodehond
+3298;Soms moeder nam medicijnen tijdens zwangerschap
+3299;Soms moet vinger recht geduwd worden
+3300;Soms nachtblindheid slecht licht
+3301;Soms na knieschijfontwrichting of verwonding
+3302;Soms neusbloeding
+3303;Soms nystagmus bij vergevorderd stadium ziekte
+3304;Soms O-benen
+3305;Soms ogen, hart, longen, oren aangetast
+3306;Soms onduidelijk spreken of kort verlamming
+3307;Soms onregelmatige hartslag
+3308;Soms onvermogen te urineren
+3309;Soms ook in bovenbenen
+3310;Soms ook zweren aan enkels
+3311;Soms oorpijn door aantasting aangezichtszenuw
+3312;Soms oorzaak: allergie bijv. waspoeder
+3313;Soms op bepaalde plaatsen van het lichaam
+3314;Soms operatieve verwijdering nodig
+3315;Soms oprispen
+3316;Soms pigmentverlies vitiligo
+3317;Soms pijn
+3318;Soms pijn aan middelvoetsbeentjes
+3319;Soms pijn bij slikken t.g.v. groei gezwel
+3320;Soms pijn in armen
+3321;Soms pijn in heup
+3322;Soms pijnlijke botten
+3323;Soms pijnlijke testikels
+3324;Soms pijn ook afwezig
+3325;Soms plaatselijk jeuk en irritatie
+3326;Soms plotselinge slapheid
+3327;Soms plotseling pijn
+3328;Soms prikkelend gevoel achter tepel
+3329;Soms problemen ophouden ontlasting
+3330;Soms problemen urineren
+3331;Soms psychische afwijkingen
+3332;Soms rode verkleuring van de huid
+3333;Soms rode vlekjes elders op het lichaam
+3334;Soms slap en verdoofd gevoel in armen
+3335;Soms slechts kort geestelijk afwezig zijn, absence
+3336;Soms slikproblemen
+3337;Soms slinken spieren
+3338;Soms snelle onregelmatige hartslag
+3339;Soms snelle regelmatige hartslag
+3340;Soms spierzwakte of spieruitval
+3341;Soms sterk verhoogde urineproductie
+3342;Soms sterk verlaagde urineproductie
+3343;Soms stuipen
+3344;Soms tand-kiesbeschadiging
+3345;Soms tand-kiespijn
+3346;Soms tijden geen verschijnselen
+3347;Soms tintelend gevoel in been of voet
+3348;Soms urine-incontinentie
+3349;Soms urinelekken door te volle blaas
+3350;Soms verbonden met neurofibromatose huidbobbels met stoornis in zenuwstelsel, spieren, huid, beenderen
+3351;Soms verdikking voelbaar in handpalm
+3352;Soms verdoofd gevoel
+3353;Soms verdoofd gevoel in been of voet
+3354;Soms verdoofd of tintelend gevoel
+3355;Soms verdoofd tintelend gevoel mogelijk
+3356;Soms verdwijnen plekken na enkele jaren
+3357;Soms verdwijnen stenen vanzelf
+3358;Soms verhoogde speekselproductie
+3359;Soms verschijnselen erbij die lijken op Pfeiffer
+3360;Soms verschijnselen vagina-ontsteking
+3361;Soms vervrouwelijking
+3362;Soms vochtafscheiding uit plekken
+3363;Soms voelbare knobbel in nek
+3364;Soms vreetpartijen boulimie
+3365;Soms vroegtijdige artrose
+3366;Soms waanvoorstellingen
+3367;Soms waarschuwing vooraf als aura of hoofdpijn
+3368;Soms wazig zien als gevolg tranen
+3369;Soms wordt vlek bleek halo
+3370;Soms X-benen
+3371;Soms zelfs beademing nodig
+3372;Soms zelfs bloedbraken
+3373;Soms zware hoofdpijn
+3374;Soms zweertjes die niet genezen
+3375;Soms zweertjes en pijn
+3376;Soms zwelling
+3377;Soms zwelling en pijn van pols
+3378;Soms zwelling in gezicht
+3379;Soms zwelling rechtsonder in buik
+3380;Soms zwelling te voelen
+3381;Soms zwelling van de buik
+3382;Soms zwelling voelbaar in lende
+3383;Soms zwelling voelbaar links of rechts in buikholt
+3384;Soms zweren
+3385;Soortgelijke verdikking soms aan elleboog
+3386;Soortgelijke verdikking soms aan hand
+3387;Soortgelijke verdikking soms aan knie
+3388;Soort spataderen in scrotum
+3389;Spanninggevoelens
+3390;Spanning in nek
+3391;Spanning in nekspieren
+3392;Spanning in schouders
+3393;Spastische bewegingen
+3394;Spatelhand: vergroeiïng vingers naast elkaar
+3395;Speekselklier werkt weer
+3396;Speen met te nauwe opening
+3397;Spider naevi
+3398;Spier-gewrichtspijn
+3399;Spieratrofie breidt zich uit
+3400;Spieratrofie en krachtverlies
+3401;Spierkramp
+3402;Spierkrampen
+3403;Spierkramp en of spierpijn myalgie
+3404;Spierkramp in kuit of voet
+3405;Spier lang in 1 stand gefixeerd geweest
+3406;Spierpijn
+3407;Spiersamentrekking van het oog
+3408;Spierstijfheid
+3409;Spiertrekkingen
+3410;Spiertrekkingen in armen en benen
+3411;Spierverkrampingen boven in rug
+3412;Spierverkrampingen in nek
+3413;Spier voelt hard aan door samentrekking
+3414;Spierzwakte
+3415;Spierzwakte in arm en been
+3416;Spierzwakte in arm of been
+3417;Spierzwakte in benen
+3418;Spijsverteringsorganen kunnen worden aangetast
+3419;Spijsverteringsstoornissen indigestie
+3420;Spinachtige vingers en tenen
+3421;Spontaan blauwe plekken
+3422;Spontaan bloeden
+3423;Spontaan bloeden of blauwe plekken
+3424;Spontaan en algemeen bloeden
+3425;Spontane bloedingen
+3426;Spontane bloedingen vooral van tandvlees
+3427;Spontane bloedneuzen
+3428;Spraak is gestoord
+3429;Spraakproblemen
+3430;Spraakproblemen, verwardheid, rusteloos
+3431;Spraakverlies
+3432;Sprake van een meerlingenzwangerschap
+3433;Springerige gedachten
+3434;Stand van hoofd soms aangepast om toch te zien
+3435;Stapsgewijs tot verlies van gezichtsvermogen
+3436;Steeds erger wordende pijn
+3437;Steeds meer bobbels zwellingen in huid is neurofibromatose
+3438;Steeds meer uitpuilend oog 1 kant met scheelzien
+3439;Steeds onzekerder lopen
+3440;Steeds terugkerende aanvallen versnelde hartslag
+3441;Steeds terugkerende afscheiding
+3442;Steeds terugkerende bekkenpijn
+3443;Steeds terugkerende diarree
+3444;Steeds terugkerende eikelontstekingen aan penis
+3445;Steeds terugkerende infectie bij anus
+3446;Steeds terugkerende infecties
+3447;Steeds terugkerende pijn
+3448;Steeds terugkerende pijn in hartstreek
+3449;Steeds terugkerende vagina-afscheiding
+3450;Stekende pijn
+3451;Stekende pijn in de borsten
+3452;Stekende pijn na trauma
+3453;Stekende scherpe pijn in borstkas
+3454;Stemmen horen
+3455;Stemmingswisselingen
+3456;Stem veranderd
+3457;Stemverlies of heesheid
+3458;Stem wordt zwaarder bij jongen
+3459;Sterke aandrang met geringe urinelozing
+3460;Sterke verhoging rode bloedcellen
+3461;Sterk verkleinde pupillen
+3462;Stevige knobbel
+3463;Stevige onregelmatig gevormde knobbel
+3464;Stijfheid
+3465;Stijfheid en zwakte verschillende lichaamsdelen
+3466;Stijfheid kan wekenlang duren
+3467;Stijve, schuifelende gang
+3468;Stijve en gebogen houding
+3469;Stijve gebogen houding
+3470;Stijve handen, gewrichten
+3471;Stijve nek
+3472;Stijve of pijnlijke nek
+3473;Stil liggen want bewegen doet pijn
+3474;Stinkende 'kaas'geur
+3475;Stinkende 'kaas' geur
+3476;Stinkende 'kaas' geur voeten
+3477;Stinkende vaginale afscheiding
+3478;Stomen helpt warm of koud
+3479;Stoornissen gezichtsvermogen ooglens verschuift
+3480;Stoornissen in oogbewegingen trillen, nystagmus
+3481;Stoppen menstruaties
+3482;Stopt even plotseling als begonnen
+3483;Straalt uit van achter naar voor
+3484;Straalt uit van rug naar ledematen
+3485;Straalt vaak uit naar nek of linkerarm
+3486;Strakke band om het hoofd
+3487;Strepen op de huid
+3488;Stressfactoren
+3489;Stress leidt tot overdreven gevoelens
+3490;Stroperig vocht komt door gaatje in trommelvlies
+3491;Stug weefsel op schacht penis
+3492;Stuipen
+3493;Stuipen convulsies
+3494;Sufheid
+3495;Sufheid, slapte
+3496;Sufheid, verwardheid
+3497;Sufheid, verwardheid, coma
+3498;Sufheid en verwardheid
+3499;Sufheid of verwardheid
+3500;Suicidegedachten
+3501;Suikerziekte
+3502;Syfilis zou ook oorzaak kunnen zijn zeldzaam
+3503;Symptomen als bij prostaatvergroting
+3504;Symptomen als ziekte van Parkinson
+3505;Symptomen komen steeds weer terug
+3506;Symptomen ontwikkelen zich snel
+3507;Symptomen treden plotseling op
+3508;Symptomen van eerdere infectie b.v. oorpijn
+3509;Symptomen verdwijnen na enkele dagen
+3510;Symptomen verschijnen binnen korte tijd
+3511;Talrijke wratachtige plekken bij de geslachtsorganen
+3512;Tandabces
+3513;Tanden en kiezen gaan los zitten
+3514;Tandenknarsen
+3515;Tanden met losse vullingen
+3516;Tandpijn
+3517;Tandvleesontsteking
+3518;Tast spieren aan, spieren worden zwak
+3519;Teerachtige ontlasting
+3520;Te groot hoofd
+3521;Te hard poetsen
+3522;Te hoog cholesterol
+3523;Te horen aan hart
+3524;Tekenen vermannelijking
+3525;Temperatuurstijging als rillingen ophouden
+3526;Temperatuurverhoging
+3527;Tenger
+3528;Tenslotte verlammingen met name been, armen en schouder
+3529;Tepel groeit naar binnen
+3530;Tepelkloven
+3531;Teruggetrokken tandvlees
+3532;Terugkerende infecties die afscheiding veroorzaken
+3533;Terugkerende luchtweginfectie
+3534;Terugkerende luchtweginfecties
+3535;Terugkerende of aanhoudende pijn op de borst
+3536;Terugtrekkend tandvlees
+3537;Terugtrekken haarlijn op voorhoofd en slapen
+3538;Te snelle groei
+3539;Te snelle groei tijdens jeugd
+3540;Te snelle verdamping traanvocht
+3541;Testikel is gezwollen
+3542;Testikel kan gevoeld worden aan wortel penis
+3543;Testikel kan gevoeld worden bovenin dijbeen
+3544;Testikel klein
+3545;Testikels zijn abnormaal van vorm
+3546;Testikel vaak te voelen als knobbeltje in lies
+3547;Testikel wordt niet gevoeld in balzak
+3548;Te strak voedingsschema
+3549;Te vaak en te veel urineren
+3550;Te vaak of teveel urineren
+3551;Te veel vruchtwater
+3552;Te voelen aan achterkant testikel
+3553;Te voelen aan pols
+3554;Te warm, te koud
+3555;Te zwak werkende schilklier met hypothyreoidie
+3556;Tic van het oog
+3557;Tijdens aanval sterke bloeddrukverhoging
+3558;Tijdens aanval varieert pijn in hevigheid
+3559;Tijdens de ziekte licht depressief gevoel
+3560;Tijdens pijn af en toe slikproblemen
+3561;Tintelende pijn
+3562;Tintelend gevoel in handen
+3563;Tintelend gevoel in handen en of voeten
+3564;Tintelend gevoel in handen en of voeten
+3565;Tintelend gevoel in hand of voet
+3566;Tintelend verdoofd gevoel in ledematen
+3567;Tintelingen speldenprikken in voeten
+3568;Tintelingen, spieratrofie, krachtverlies
+3569;Tintelingen in benen
+3570;Tintelingen in de handen
+3571;Tintelingen in voeten en handen
+3572;Toename druk in hersenen
+3573;Toenemende doofheid aan één oor
+3574;Toenemende druk binnen schedel
+3575;Toenemende geelzucht
+3576;Toenemende heesheid
+3577;Toenemende hoofdpijn
+3578;Toenemende kortademigheid
+3579;Toenemende misvorming
+3580;Toenemende pijn
+3581;Toenemende pijn bij zuchten, voelen en kloppen
+3582;Toenemende pijn bij zuchten, voelen en kloppen op de buik
+3583;Toenemende pijnlijke spierontstekingen
+3584;Toenemende slaperigheid
+3585;Toenemende stijfheid
+3586;Toenemende sufheid
+3587;Toenemende verslechtering gehoor
+3588;Toenemende verwardheid
+3589;Toenemende verwarring
+3590;Toenemende verzwakking van 1 lichaamshelft
+3591;Toenemende zwakte in spiergroep
+3592;Toenemend mank lopen
+3593;Toestand gedaald bewustzijn
+3594;Toevallen
+3595;Toevallen of epilepsie
+3596;Traag denken
+3597;Traanvocht stroomt erover heen
+3598;Trage bloedstolling
+3599;Trage polsslag
+3600;Trager denken bradyfrenie
+3601;Tranen
+3602;Tranende ogen
+3603;Tranen uit 1 oog tijdens hoofdpijn
+3604;Transpireren
+3605;Transpireren, rillingen
+3606;Transpireren ook 's nachts
+3607;Treden soms aan één kant op
+3608;Treden vaak op samen met andere ziekten
+3609;Treedt meestal op na chronische verkoudheid
+3610;Treedt op bij ontwaken
+3611;Treedt op tijdens/na langdurig staren op een beeldscherm
+3612;Treedt plotseling op
+3613;Trekkende of schokkende benen
+3614;Trekt langzaam weg naar zijkant oog
+3615;Trekt meestal vanzelf weg
+3616;Trekt van onderarm naar hand
+3617;Trekt weg
+3618;Tremor beven
+3619;Tremor beven bij alcoholisme
+3620;Tremor beven van de handen
+3621;Tremor in ledematen 'dansen'
+3622;Trillen, spierkrampen
+3623;Trillende handen
+3624;Trillend ooglid
+3625;Trillen en overmatige reflexen
+3626;Trillingen van ledematen
+3627;Trillingsgevoel in teen is weg
+3628;Troebele urine
+3629;Troebele vlek
+3630;Troebel hoornvlies
+3631;Troebel hoornvlies vaak vroeg symptoom
+3632;Trombose bloedstolsels
+3633;Trommelstokvingers
+3634;Trommelstokvingers zwelling aan de vingeruiteinden
+3635;Trommelvingers
+3636;Trommelvliesscheur
+3637;Tumor deel hersenen dat gezichtsspieren bestuurt
+3638;Tumor die op aangezichtszenuw drukt
+3639;Tussen 6 en 10 maanden
+3640;Tussen 30-40 jaar
+3641;Tussen aanvallen door gevoel van goedvoelen
+3642;Tussen de haren kleine zwarte puntjes
+3643;Tussentijds bloedverlies
+3644;Tweede helft: ademnood
+3645;Typische bruinzwarte kleur
+3646;urineincontinentie vooral bij ouderen
+3647;Uitblijvende menstruatie
+3648;Uitblijven menstruatie
+3649;Uitblijven menstruatie denk aan zwangerschap
+3650;Uitblijven ovulatie
+3651;Uitdroging
+3652;Uitdrogingsverschijnselen
+3653;Uiteindelijk bewustzijnsverlies en shock
+3654;Uiteindelijk de dood
+3655;Uiteindelijk eiwittekort met oedeem
+3656;Uiteindelijk huiduitslag
+3657;Uiteindelijk sufheid bewusteloosheid
+3658;Uiteindelijk verwardheid, coma
+3659;Uitpuilende fontanellen
+3660;Uitpuilende ogen
+3661;Uitpuilende ogen ziekte van Graves
+3662;Uitpuilend oog
+3663;Uitpuiling achterwand vagina
+3664;Uitpuiling voorste vaginawand
+3665;Uitputting
+3666;Uitslag
+3667;Uitslag binnen 24-48 uur na begin koorts
+3668;Uitslag op borst en buik
+3669;Uitsluitend bij rokers
+3670;Uitstekend bot bij de hiel
+3671;Uitstoot slijmerig, vliesachtig materiaal
+3672;Uitstralende pijn naar billen of bovenbenen
+3673;Uitstralende pijn naar enkel, been of knie
+3674;Uitstralende pijn van billen naar achterkant benen
+3675;Uitval been- armfunctie
+3676;Uitvallend gezichtsvermogen
+3677;Uitvallen smaak
+3678;Uitvallen van tanden en kiezen
+3679;Uitval zintuigorganen
+3680;Uitzonderlijke lichaamslengte
+3681;Urine-incontinentie
+3682;Urine eerder bruin dan rood
+3683;Urine of ontlasting niet lang genoeg kunnen ophouden
+3684;Urineren pijn en jeuk
+3685;Urineren vaak kleine hoeveelheden
+3686;Urine ruikt sterkt
+3687;Urine troebel
+3688;Urineverlies
+3689;Urinewegafsluiting als gevolg bloedpropje
+3690;Vaak: eerder al maagzweer gehad
+3691;Vaak afwisseling verwardheid/helderheid
+3692;Vaak andere verschijnselen van ontstekingen
+3693;Vaak bij meisjesbaby's te zien
+3694;Vaak bij oudere mensen
+3695;Vaak bij verkouden zijn of oorontsteking
+3696;Vaak bij vinger- of teennagel
+3697;Vaak bloederige afscheiding uit tepel
+3698;Vaak borsten plaatselijk gevoelig
+3699;Vaak bovenaan op rug
+3700;Vaak brandend maagzuur
+3701;Vaak bronchitis, zomer en winter
+3702;Vaak combinatie eczeem elders op lichaam
+3703;Vaak door snijwonden aan gezicht
+3704;Vaak een infectiebron bijv huid, luchtweg, keel ed
+3705;Vaak eerdere buikproblemen
+3706;Vaak emotieloos
+3707;Vaak ene kant groter dan andere
+3708;Vaak gepaard met coeliakie
+3709;Vaak gepaard met spruw van de darm
+3710;Vaak gezwollen enkels
+3711;Vaak grote teennagel
+3712;Vaak hoofdpijn band om
+3713;Vaak in combinatie met eczeem en hooikoorts
+3714;Vaak in combinatie met kwaadaardige tumor
+3715;Vaak in familie
+3716;Vaak in gezicht oogleden
+3717;Vaak in gezicht, hals, nek
+3718;Vaak in grote aantallen
+3719;Vaak in grote hoeveelheden
+3720;Vaak in knieën, elleboog
+3721;Vaak in nek
+3722;Vaak koorts
+3723;Vaak met andere verschijnselen van infectie
+3724;Vaak met hoest
+3725;Vaak met keelpijn
+3726;Vaak met oorpijn
+3727;Vaak niet erg pijnlijk
+3728;Vaak ook eczeem vaak ook astma
+3729;Vaak ook tandbederf cariës
+3730;Vaak oorsuizen
+3731;Vaak op de onderbenen
+3732;Vaak op middelbare leeftijd
+3733;Vaak op rug van pols
+3734;Vaak op scheenbenen na openhaardvuur
+3735;Vaak pijnlijk voor cyclusbegin
+3736;Vaak plassen
+3737;Vaak problemen met spijsvertering
+3738;Vaak problemen op werk of in gezin oorzaak
+3739;Vaak slechte voeding
+3740;Vaak snelle polsslag
+3741;Vaak terugkerend braken
+3742;Vaak terugkerende luchtweginfecties
+3743;Vaak terugkerende oorontstekingen
+3744;Vaak tijdens slaap
+3745;Vaak uitstraling naar knie
+3746;Vaak urineren
+3747;Vaak verband reumatische aandoening
+3748;Vaak verleden van neurotisch gedrag
+3749;Vaak vocht in gewricht
+3750;Vaak zware hoofdpijn
+3751;Vaak één kleine gevoelige plek in de borst
+3752;Vage hoofdpijn
+3753;Vage pijn in onderbuik
+3754;Vage pijn in oog
+3755;Vaginale bloeding soms pijnlijk, soms niet
+3756;Vaginale bloedingen
+3757;Vaginale bloedingen bij zwangerschap
+3758;Vaker bij ouderworden
+3759;Vaker bij vrouwen
+3760;Vaker voorkomende oogirisontsteking iridocyclitis
+3761;Van achteren gezien is wervelkolom krom
+3762;Van achteren kromt ruggegraat meer naar 1 kant
+3763;Vanaf de geboorte
+3764;Vanaf geboorte
+3765;Van enkele millimeters tot meer dan centimeter
+3766;Vanuit de ooghoek ziet men nog relatief goed
+3767;Varieert niet in grote
+3768;Variërende symptomen
+3769;Veelal een bijkomende aandoening m.n. leverproblem
+3770;Veelal op armen en benen
+3771;Veelal op middelbare leeftijd
+3772;Veelal voorkomend na menopauze
+3773;Veel bewegen
+3774;Veel bij ouderen
+3775;Veel bij ouderen die veel in buitenlucht vertoeven
+3776;Veel bij zangers of specifiek stemgebruik
+3777;Veel buiten geweest
+3778;Veel diarree
+3779;Veel drinken
+3780;Veel huilen
+3781;Veel in gewrichten
+3782;Veel speekselvorming
+3783;Veel urineren
+3784;Veel vage klachten
+3785;Veel vettige diarree
+3786;Veel vlekken en drijvende deeltjes in gezichtsveld
+3787;Veelvuldig aandrang tot urineren
+3788;Veelvuldig plassen
+3789;Veelvuldig urineren
+3790;Vele andere verschijnselen
+3791;Vele jaren aanwezig
+3792;Vel over been
+3793;Veranderd balgevoel
+3794;Veranderde stem
+3795;Veranderd gevoel in armen
+3796;Veranderd gevoel in armen en benen en zwakte
+3797;Veranderd gevoel in benen
+3798;Veranderd gevoel in ledematen
+3799;Veranderd gevoel in vingers
+3800;Veranderd gevoel in vingers en tenen
+3801;Veranderd gevoel in voeten en tenen
+3802;Veranderd ontlastingspatroon
+3803;Veranderend gevoel in de ledematen
+3804;Veranderingen in hoornvlies wazig
+3805;Verandering in grootte of vorm
+3806;Verandering in spraak, nasaal spreken
+3807;Verandering stoelgang, diarree
+3808;Verband met chronische hoofdpijnklachten
+3809;Verband met lichamelijke activiteiten
+3810;Verband middenrifsbreuk
+3811;Verbetert na enkele uren rust
+3812;Verdere ontwikkeling is normaal
+3813;Verdere verkleuring: bruin, groen, geel
+3814;Verder geen klachten
+3815;Verder geen symptomen
+3816;Verder geen ziekteverschijnselen
+3817;Verder gezond
+3818;Verder goede gezondheid
+3819;Verder goed gezond
+3820;Verder normaal seksueel gedrag
+3821;Verdikking aan binnenkant ooglid
+3822;Verdikking deel buigpees door ontsteking
+3823;Verdikking hoornlaag
+3824;Verdikking van knieën, enkels en polsen
+3825;Verdikte hoornachtige huid
+3826;Verdikte huidbeschadigingen
+3827;Verdikte stugge brokkelige nagel
+3828;Verdikt weefsel voelbaar in handpalm
+3829;Verdoofde vingers en/of tenen
+3830;Verdoofde vingers en tenen
+3831;Verdoofde vingers of tenen
+3832;Verdoofd gevoel
+3833;Verdoofd gevoel in ledematen
+3834;Verdoofd of tintelend gevoel
+3835;Verdoofd of tintelend gevoel in botten en gewrichten
+3836;Verdoofd of tintelend gevoel in huid
+3837;Verdoofd raken doet geen pijn
+3838;Verdwijnen schaamhaar, okselhaar
+3839;Verdwijnen vanzelf
+3840;Verdwijnt 's nachts soms
+3841;Verdwijnt gelijk met infectie
+3842;Verdwijnt na 7-10 dagen
+3843;Verdwijnt na kortere of langere tijd
+3844;Verdwijnt op 6-jarige leeftijd
+3845;Verdwijnt plotseling
+3846;Verdwijnt vaak vanzelf
+3847;Verergering binnen enkele uren
+3848;Verergering na lang boven hoofd werken met armen
+3849;Verergert als kind moe is
+3850;Verergert bij gebruik van spieren
+3851;Verergert tijdens zwangerschap
+3852;Vergeetachtigheid
+3853;Vergelijkbaar met cyste
+3854;Vergelijking met groeicurve in evenwicht
+3855;Vergevorderd stadium van tandvleesontsteking
+3856;Vergroot risico hart-vaatziekten
+3857;Vergrote, gevoelige lever
+3858;Vergrote, niet-pijnlijke lymfklieren
+3859;Vergrote, niet pijnlijke lymfklieren in hals
+3860;Vergrote borsten
+3861;Vergrote borstomvang
+3862;Vergrote clitoris
+3863;Vergrote lever
+3864;Vergrote lever en milt
+3865;Vergrote lymfklieren
+3866;Vergrote lymfklieren hals
+3867;Vergrote lymfklieren in omgeving
+3868;Vergrote lymfklieren vooral in hals
+3869;Vergrote lymfklier in buurt aangetaste tand
+3870;Vergrote milt
+3871;Vergrote oogbol
+3872;Vergroting borstkraakbeen/ abnormale vorm borstkas
+3873;Vergroting lymfklieren
+3874;Vergroting neemt toe
+3875;Vergroting schedelomvang
+3876;Verhoogde aandrang tot plassen
+3877;Verhoogde afscheiding
+3878;Verhoogde afscheiding neusvocht
+3879;Verhoogde bloedingsneiging
+3880;Verhoogde kans op bindvliesontsteking
+3881;Verhoogde kans op blauwe plekken
+3882;Verhoogde neiging tot blauwe plekken
+3883;Verhoogde speekselproductie
+3884;Verhoogde speekselproduktie
+3885;Verhoogde urineafscheiding
+3886;Verhoogde vatbaarheid voor infecties
+3887;Verhoogde vatbaarheid voor luchtweginfecties
+3888;Verkleining gezichtsveld
+3889;Verkleurde, bruine nagels maantje zijn verkleurd
+3890;Verkleurde donkere urine
+3891;Verkleurde kleine huidplekjes zie puntbloedinkjes
+3892;Verkleurde plekken zijn onregelmatig
+3893;Verkleuringen tussen tanden
+3894;Verkleuring heet eczema varicosum
+3895;Verkleuring huid
+3896;Verkleuring in onderbenen en voeten
+3897;Verkleuring onder nagel na verwonding
+3898;Verkleuring van de huid
+3899;Verkleuring van de huid rond het oog
+3900;Verkleuring van oogwit
+3901;Verkleuring vooral in huidplooien, tepels, genitaliën oude littekens
+3902;Verkleuring vooral onder ogen
+3903;Verkleurt na enkele dagen groen geel
+3904;Verkorte baarmoedermond
+3905;Verkorting been
+3906;Verkorting spieren contracturen
+3907;Verkoudheid
+3908;Verkromming rug
+3909;Verkromming wervelkolom met pijn
+3910;Verlaagd bewustzijn
+3911;Verlamde ledematen
+3912;Verlamd gevoel van het onderbeen
+3913;Verlamming
+3914;Verlamming benen
+3915;Verlamming deel gezicht
+3916;Verlamming deel gezicht lijkt op verlamming Bell
+3917;Verlamming deel gezicht aan beide kanten
+3918;Verlammingen
+3919;Verlammingen in het gezicht
+3920;Verlamming ledematen
+3921;Verlamming van beide benen
+3922;Verlegenheid
+3923;Verlies aan gezichtsvermogen
+3924;Verlies controle over blaas
+3925;Verlies decorum onaangepast gedrag: het verhaal van de rechter die in hoek gaat plassen
+3926;Verlies dieptegevoel
+3927;Verlies gevoel in billenen anus
+3928;Verlies gevoel in onderrug
+3929;Verlies gevoel onder niveau beschadiging
+3930;Verlies in grijpvermogen hand
+3931;Verlies libido
+3932;Verlies lichaamsbeharing
+3933;Verlies okselharen mogelijk
+3934;Verlies reukvermogen
+3935;Verlies schaamhaar
+3936;Verlies schaamhaar mogelijk
+3937;Verlies smaak-reukvermogen
+3938;Verlies spraakvermogen
+3939;Verlies van buitenste gezichtsveld
+3940;Verlies van grijpvermogen
+3941;Verlies van teveel eiwit in urine
+3942;Verlies van zelfvertrouwen
+3943;Verlies vele liters urine per dag
+3944;Verlies zelfcontrole
+3945;Verloop is geleidelijk
+3946;Vermagering
+3947;Vermannelijking virilisatie
+3948;Verminderde beweeglijkheid
+3949;Verminderde urineproductie
+3950;Verminderde vruchtbaarheid
+3951;Verminderde vruchtbaarheid, impotentie
+3952;Verminderd gevoel
+3953;Verminderd libido
+3954;Verminderd reuk- en smaakvermogen
+3955;Vermindering libido
+3956;Vermoeidheid
+3957;Vermoeidheid, geestelijke verwarring
+3958;Vermoeidheid, slapte
+3959;Vermoeidheid, uitgeput gevoel na inspanning
+3960;Vermoeidheid, verwardheid
+3961;Vermoeidheid kan maanden aanhouden
+3962;Vermoeidheid met hoofdpijn
+3963;Vermoeidheid met koorts
+3964;Vermogen diep inademen neemt af
+3965;Veroorzaakt koorts
+3966;Veroorzaakt vergrote blaas
+3967;Verschijnsel bij andere chronische ziekten
+3968;Verschijnselen als die van vergrote prostaat
+3969;Verschijnselen lijken op darmkanaalafsluiting
+3970;Verschijnselen lijken op verlamming Bell
+3971;Verschijnselen manie
+3972;Verschijnselen treden plotseling op
+3973;Verschijnselen wisselen in de tijd
+3974;Verschijnselen worden soms na enkele weken beter
+3975;Verschrompelde testikels
+3976;Verschrompelende testikels
+3977;Versnelde ademhaling
+3978;Versnelde hartslag, pijn op de borst
+3979;Versnelde hartslag, regelmatig en onregelmatig
+3980;Versnelde hartwerking tachycardie
+3981;Versnelde onregelmatige hartslag
+3982;Versnelling hartritme
+3983;Vers of oud bloed in braaksel
+3984;Verstikkingsgevaar
+3985;Verstoorde spijsvertering
+3986;Verstopping
+3987;Verstopping obstipatie
+3988;Verstopping, obstipatie
+3989;Verstopte neus
+3990;Verstopte neus of loopneus
+3991;Verstopt oor
+3992;Verstopt oor samen met verstopte of loop neus
+3993;Verstoringen gezichtsvermogen
+3994;Vertraagde lichamelijke ontwikkeling
+3995;Vervelend gevoel achter borstbeen
+3996;Vervelend gevoel in buik door vergrote milt
+3997;Vervolgens sterk hoesten met bloederig slijm
+3998;Vervormde tepel
+3999;Vervormd zien
+4000;Vervorming nagels, dunner worden schaamhaar
+4001;Vervrouwelijking feminisatie
+4002;Vervrouwelijking, borstvorming.
+4003;Verwaarlozing uiterlijk
+4004;Verward
+4005;Verward denken
+4006;Verwardheid
+4007;Verwardheid delier
+4008;Verwardheid desoriëntatie
+4009;Verward spreken
+4010;Verwijde adertjes in gezicht
+4011;Verwijde neusgaten
+4012;Verwijde pupillen
+4013;Verwonding
+4014;Verwondingen rond schede en anus
+4015;Verwonding in bekken
+4016;Verwonding laag in borst
+4017;Verzakking
+4018;Verzwakking spieren ademhalingsstelsel
+4019;Vet egaal over lichaam verdeeld
+4020;Vettige diarree
+4021;Via masturbatie is wel een orgasme op te wekken
+4022;Vier ruikende en smakende neusafscheiding
+4023;Vieze luier, ongemak
+4024;Vinger blijft vast zitten bij buigen of strekken
+4025;Vinger of tampon inbrengen is moeilijk
+4026;Vingers alleen strekken bij gebogen pols
+4027;Vingers blijven sterk gebogen
+4028;Vingers en tenen voelen altijd koud aan
+4029;Vingers en tenen worden snel wit of blauw
+4030;Vingers en tenen worden snel wit of blauw en pijn en roodheid als doorbloeding weer op gang komt
+4031;Vingers hebben ronde top
+4032;Vingers staan krom klauwvormig
+4033;Vingers verder naar achter buigen dan 90 graden
+4034;Vingers verdoofd
+4035;Vingers zijn gekromd
+4036;Virusinfectie van evenwichtsorgaan
+4037;Vitaminentekort
+4038;Vit A toedienen doet verschijnselen verdwijnen
+4039;Vlakke gemoedstoestand
+4040;Vleesbomen
+4041;Vlek eindig vlak voor iris
+4042;Vlekjes en zwevende deeltjes voor ogen
+4043;Vlekjes meestal iets verhoogd knobbeltjes
+4044;Vlekjes omgeven door rode verkleuring
+4045;Vlekjes over hele lichaam roseolen
+4046;Vlekjes verspreiden zich plotseling
+4047;Vlekjes zo groot als zoutkorreltje
+4048;Vlekjes zonder duidelijk patroon
+4049;Vlekken in gezichtsveld
+4050;Vlekken op tanden
+4051;Vlekkerige huid op de billetjes
+4052;Vlek op zitvlak en in schaamstreek
+4053;Vlezige bobbeltjes steken soms uit anus
+4054;Vlindervormige uitslag op wangen
+4055;Vloeistof makkelijker dan vast voedsel
+4056;Vochtige huid op de billetjes
+4057;Vocht in buikholte
+4058;Vochtophoping oedeem in o.a. buik,enkels, gezicht en andere lichaamsdelen
+4059;Vocht verdwijnt na begin menstruatie
+4060;Voedingen komen terug
+4061;Voeding met te weinig voedingsvezels
+4062;Voedsel blijft 'steken' achter borstbeen
+4063;Voedsel kan pijn verminderen of verergeren
+4064;Voedsel wordt opgerispt
+4065;Voedsel wordt teruggegeven met vocht
+4066;Voelt aan als zwellingen
+4067;"Voelt als ""klap achter tegen het hoofd"""
+4068;Voelt zich ongelukkig
+4069;Voet bij heupaandoening naar buiten gedraaid
+4070;Voeten staan bij elkaar
+4071;Voeten staan uit elkaar
+4072;Voet lijkt naar buiten gedraaid
+4073;Vol gevoel, ook na weinig eten
+4074;Vol gevoel ook na weinig eten
+4075;Vollemaansgezicht, gezwollen en pafferig
+4076;Vollere gevoeligere borsten
+4077;Volstrekt regelmatig ritme
+4078;Voorafgegaan door een dag met geringe klachten
+4079;Vooral 's ochtends
+4080;Vooral aan strekzijde armen en benen
+4081;Vooral armen en hoofd
+4082;Vooral bij jongens 11-13 jaar
+4083;Vooral bij jonge onervaren mannen
+4084;Vooral bij jonge vrouwen
+4085;Vooral bij mensen met lichte huidtint
+4086;Vooral bij oudere mannen
+4087;Vooral bij roodharige mensen
+4088;Vooral bij tepels, langs buikmiddellijn, bij genitaliën
+4089;Vooral handpalmen en voetzolen
+4090;Vooral huidplooien borsten, liezen, oksels
+4091;Vooral in gezicht, op schouders en armen
+4092;Vooral in gezicht en nek
+4093;Vooral in onderrug
+4094;Vooral lippen, tong, onder vingernagels, vingers
+4095;Vooral midden op de onderlip
+4096;Vooral op bovenlichaam, armen en nek
+4097;Vooral op buik, bovenbenen
+4098;Vooral op zitvlak en bovenarmen
+4099;Vooral rond mond, in gezicht en aan oren
+4100;Vooral zichtbaar waar bloed onder huid stroomt
+4101;Voor eerst meestal tussen 2e en 5e levensjaar
+4102;Voorhuidaandoening penis
+4103;Voorhuid is teruggeschoven
+4104;Voorhuid kan niet meer over eikel heen terug
+4105;Voorhuid kan niet over eikel worden teruggetrokken
+4106;Voorjaarsmoeheid
+4107;Voortdurende pijn in mond of nek
+4108;Voortdurende pusafscheiding vermengd met bloed
+4109;Voortdurende zware slaperigheid
+4110;Voortdurend veel gekleurd geel/groen slijm
+4111;Voortdurend vergrote niet pijnlijke lymfklieren
+4112;Voortijdige puberteit pubertas praecox
+4113;Voortijdige zaadlozing ejaculatio praecox
+4114;Vooruitstekende voortanden
+4115;Vormafwijking opzij goed te zien
+4116;Vorm cysten verandert tijdens menstruatiecyclus
+4117;Vorm van nefrotisch syndroom
+4118;Vreesachtigheid
+4119;Vrijwel uitsluitend bij mannen
+4120;Vroeg na geboorte obstipatie
+4121;Vroegtijdig breken van de vliezen
+4122;Vroeg wakker worden
+4123;Vrouw: verhoogde prolactineafscheiding
+4124;Vrouwelijke lichaamsvormen
+4125;Vrouwen die kinderen gebaard hebben
+4126;Vrouw wil wel geslachtsgemeenschap
+4127;Vruchtbaarheid bevorderende middelen
+4128;Vuurrode, verheven scherpbegrensde kleine huidplekken met beetje gezwollen grillige rand
+4129;Waandenkbeelden
+4130;Waandenkbeelden hallucinaties
+4131;Waanvoorstellingen
+4132;Waarneming talloze bewegende puntjes
+4133;Wang kan omlaaghangen
+4134;Wankele gang
+4135;Wankele tred en beenspierverzwakking beiderzijds
+4136;Warme, blauwe handen
+4137;Warme rode huid
+4138;Wat beperkte beweeglijkheid
+4139;Waterige, lichte, zuur ruikende diarree
+4140;Waterige diarree
+4141;Waterige diarree met hoofdpijn enkele uren na een maaltijd
+4142;Waterige ontlasting
+4143;Wat pijn
+4144;Wazig zien
+4145;Wazig zien met name in het centrale blikveld
+4146;Weefsel is bleek van kleur met kleine bloedvaatjes
+4147;Weefselversterf
+4148;Weefsel vormt zich binnen paar weken
+4149;Weerzin tegen zichzelf
+4150;Weinig klachten
+4151;Weinig of geen eetlust
+4152;Weinig urineproductie
+4153;Weke, fluweelachtige huid
+4154;Wekenlang hoest, slijm en piepen
+4155;Welling midden in onderbuik, net boven het schaamb
+4156;Wel reactie op pijnprikkel
+4157;Winden laten
+4158;Winderigheid
+4159;Winderigheid gasvorming
+4160;Winterdepressie
+4161;Wisselende hardhorendheid
+4162;Wisselende stemmingen
+4163;Witachtig sluier over de lens
+4164;Wit haar
+4165;Witheid van de huid
+4166;Witte, bleke huid
+4167;Witte gebarsten plekken op de huid
+4168;Witte plekjes in mond en keel
+4169;Witte plekken huid
+4170;Witte plekken in mondslijmvlies
+4171;Witte plekken op tong
+4172;Witte plek op vagina
+4173;Witte vlekjes geven etterafscheiding
+4174;Witte vlekjes in mond bij tanden
+4175;Witte vlekjes op keelamandelen
+4176;Witte vlekjes op lippen, tong, wangen
+4177;Witte vlekken op huid
+4178;Wit tot geel/groen sputum
+4179;Wit zien
+4180;Wond elders op het lichaam
+4181;Wond oorschelp of gehoorgang
+4182;Wondvocht met luchtbelletjes
+4183;Wondvocht met zichtbare luchtbelletjes
+4184;Wond voelt 'knisperig' aan
+4185;Worden langzaam groter
+4186;Wordt bij geboorte geconstateerd
+4187;Wordt dan pijnlijk
+4188;Wordt erger bij beweging
+4189;Wordt erger bij ouder worden
+4190;Wordt ervaren als een sluier voor ogen
+4191;Wordt geleidelijk groter
+4192;Wordt groter tijdens eten of drinken
+4193;Wordt kaal of grijs
+4194;Wordt langzaam groter
+4195;Wordt vergroot door infectie
+4196;Wordt zwart is niet meer doorbloed
+4197;Wormen
+4198;Wratten rond vagina, penis, anus of bilspleet
+4199;X-benen
+4200;X- en O-benen
+4201;zonlicht niet goed te verdragen
+4202;Zaadlozing tijdens slaap
+4203;Zachte testikels
+4204;Zacht rood vlezig gezwel
+4205;Zakt weg na even rusten
+4206;Zanderige ogen droog, pijnlijk
+4207;Zeer gevoelige buik
+4208;Zeer gevoelige plek in gehoorgang
+4209;Zeer goede eetlust
+4210;Zeer grote dorst
+4211;Zeer grote urineproductie
+4212;Zeer hevige pijn
+4213;Zeer hevige pijn in knie
+4214;Zeer hoge koorts
+4215;Zeer pijnlijk
+4216;Zeer pijnlijk bij aanraking
+4217;Zeer pijnlijk bij bewegen
+4218;Zeer pijnlijke keel
+4219;Zeer plotselinge hevige hoofdpijn
+4220;Zeer slechte adem
+4221;Zelden langer dan enkele dagen
+4222;Zelden pijn
+4223;Zelden tintelingen in handen en armen
+4224;Zelden voor 40 jarige leeftijd
+4225;Zelfde symptomen als bij blaasontsteking plus:
+4226;Zelfde symptomen als netvliesloslating
+4227;Zelfde verschijnselen als bij amblyopie
+4228;Zelfde verschijnselen als bij binnenmeniscus
+4229;Zelfoverschatting
+4230;Zelfverwaarlozing
+4231;Zelfverwaarlozing, decorumverlies
+4232;Zenuw beklemt
+4233;Zenuwtrekkingen
+4234;Zenuwtrek van het oog
+4235;Zich ernstig ziek voelen
+4236;Zichtbare bloedvaten in hals
+4237;Zichtbare bloedvaten in hals verergert bij inademen
+4238;Zichtbare spataderen
+4239;Zichzelf lichamelijke schade toebrengen
+4240;Ziekelijk achtervolgd worden
+4241;Ziekelijke neiging tot slapen
+4242;Ziek in auto, boot, vliegtuig, trein
+4243;Ziek in auto, bus, vliegtuig, boot, trein
+4244;Ziek misselijk en braken
+4245;Ziekte ontstaat vrij plotseling
+4246;Ziekte ontwikkelt zich in 7-14 dagen
+4247;Ziekte van Crohn
+4248;Zien van zwevende draadjes
+4249;Zien verslechterd geleidelijk
+4250;Zie ook amandelontsteking tonsillitis
+4251;Zie syndroom van Horner
+4252;Ziet eruit als misvorming of zwelling
+4253;Ziet wonderen,buitenaardse wezens e.d.
+4254;Zie verschijnselen pericarditis exsudativa
+4255;Zijn er symptomen van primair kankergezwel elders
+4256;Zijwaartse verkromming
+4257;Zitten vaak op gewichtsdragende delen
+4258;Zoals bij ernstige verbranding
+4259;Zonder behandeling gangreen afsterving weefsel
+4260;Zorgen om lichaamsgewicht en uiterlijk
+4261;Zure smaak in keel en mond
+4262;Zwaar aanvoelend testikel
+4263;Zwaardere stem
+4264;Zwaarder worden stem bij vrouw
+4265;Zwaar gevoel
+4266;Zwaar gevoel benen dikke enkels na een dag lopen of staan
+4267;Zwaar gevoel in 1 testikel
+4268;Zwaar gevoel in vagina erger bij hoesten en uitrekken
+4269;Zwaarlijvigheid
+4270;Zwakke, onregelmatige polsslag
+4271;Zwakke pols
+4272;Zwakker worden, slinken rug- bekkenspieren
+4273;Zwak kind
+4274;Zwakte in benen
+4275;Zwakte van ledematen onder niveau beschadiging
+4276;Zwakzinnigheid
+4277;Zwangerschap
+4278;Zwangerschap door ivf
+4279;Zware depressie
+4280;Zware gevoel erger bij hoesten en uitrekken
+4281;Zware hoofdpijn
+4282;Zwart/blauwe vlek
+4283;Zwarte lijnvormige pigmentatie
+4284;Zwarte ontlasting
+4285;Zwarte puntjes meeëters
+4286;Zwart ontlasting
+4287;Zweer in oor
+4288;Zweer is oppervlakkig
+4289;Zweertjes aan penis, vagina, anus, op genitaliën of mond
+4290;Zweertje bloedt bij beschadiging
+4291;Zweertjes blijven klein
+4292;Zweertjes kunnen ook zeer groot worden
+4293;Zweertjes op en bij geslachtsdelen
+4294;Zweertjes op genitaliën
+4295;Zweet onder oksels
+4296;Zweet op rug
+4297;Zweet op voorhoofd
+4298;Zweetvoeten
+4299;Zwelling
+4300;Zwelling aan beide oogleden
+4301;Zwelling aan één kant buik
+4302;Zwelling aan één kant hals
+4303;Zwelling beweegt op en neer bij slikken
+4304;Zwelling bijna meteen zichtbaar
+4305;Zwelling binnenzijde enkel
+4306;Zwelling blijft als men gaat liggen
+4307;Zwelling boven in buikholte
+4308;Zwelling die ontstaat bij eten mondbodem en hals
+4309;Zwelling door primaire kanker
+4310;Zwellingen
+4311;Zwellingen aan vingers en tenen trommelstokvingers
+4312;Zwellingen aan voeten
+4313;Zwelling en pijn
+4314;Zwellingen rond ogen
+4315;Zwelling gezicht, hamsterwangen, oor staat af
+4316;Zwelling in de buik
+4317;Zwelling in de hals
+4318;Zwelling in lendenen of onderbuik
+4319;Zwelling kan groot zijn
+4320;Zwelling kan los van testikels gevoeld worden
+4321;Zwelling kan rood worden en warm aanvoelen
+4322;Zwelling lymfklieren
+4323;Zwelling midden boven in buikholte
+4324;Zwelling midden in buikholte
+4325;Zwelling midden in spier aan zijkant hals
+4326;Zwelling na inspanning beweging van de knie
+4327;Zwelling neemt toe tijdens maaltijden
+4328;Zwelling of oedeem
+4329;Zwelling ontstaat snel
+4330;Zwelling pulseert gelijk met hart
+4331;Zwelling rond en bij de plekken voelen warm
+4332;Zwelling rond lippen
+4333;Zwelling rond ogen
+4334;Zwelling rondom oog
+4335;Zwelling rond oog
+4336;Zwelling soms in mond onder tong voelbaar
+4337;Zwelling te legen door druk
+4338;Zwelling van beide oogleden
+4339;Zwelling van buik door vocht
+4340;Zwelling van de buik
+4341;Zwelling van de buik algemeen
+4342;Zwelling van de huid
+4343;Zwelling van enkels en benen. Benen voelen koel.
+4344;Zwelling van gewricht
+4345;Zwelling van keel
+4346;Zwelling van ledematen
+4347;Zwelling van lippen
+4348;Zwelling van scrotum
+4349;Zwelling van testikel
+4350;Zwelling varieert in grootte
+4351;Zwelling varieert met ademhaling en hartslag
+4352;Zwelling verdwijnt plotseling
+4353;Zwelling vooral onder knieschijf
+4354;Zwelling wordt in 2 tot 3 dagen erger
+4355;Zwerende huiduitslag
+4356;Zweren kunnen bloeden
+4357;Zweren langer dan 2 weken
+4358;Zweren meestal bij enkel
+4359;Zweren met onregelmatige vorm
+4360;Zweren met verhoogde rand
+4361;Zweren op oppervlak poliepen
+4362;Zweten
+4363;Zweten, bleekheid
+4364;Zweten, kortademigheid, snelle pols
+4365;Zweten, tremor beven, dranklucht
+4366;Zweten, verwardheid onduidelijke spraak
+4367;Zweten, vooral 's nachts

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/tools/cleaning/token/Tokenizer.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/resources/planner/data/DescriptionExtractor.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/resources/planner/builder/TokenSetBuilder.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/test/planner/PlannerBuilderTest.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/tools/cleaning/token/TokenContainer.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/tools/cleaning/segment/Segmentizer.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/resources/planner/builder/PlannerBuilder.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/tools/cleaning/token/TokenSet.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/tools/cleaning/token/TokenPane.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/test/tokenui/TokenApp.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/test/tokenui/FilterListBuilder.java</file>
+            <file>file:/C:/JHealth_ML/libs/TextTools/src/resources/planner/builder/Planner.java</file>
+        </group>
+    </open-files>
+</project-private>
